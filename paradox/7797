@@ -1,0 +1,18 @@
+{
+  "name": "#7797 Umog Redgrell - The Poison Vagabond",
+  "description": "The Poison Vagabond. The only being that mysteriously was capable of living in the Pilgrim’s lake. When passing by the lake, her whispers are almost always heard, as if she was mimicking something she heard in her head. Don’t touch her, for she will corrupt you mentally & physically.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/7797.png",
+  "attributes": [
+    {
+      "value": "Umog Redgrell",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The Poison",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

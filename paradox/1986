@@ -1,0 +1,18 @@
+{
+  "name": "#1986 Stonn The Grizzled - Blood of the Wolf ",
+  "description": "The Blood of the Wolf, Stonn the Grizzled was a 8 foot tall member of the Blood 10 who’s an eternal werewolf. He became a werewolf after an interaction with an Eye Wolf King who granted him his powers after being saved by Stonn. Despite his beastly nature, he’s particularly well spoken, and very lord like. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/1986.png",
+  "attributes": [
+    {
+      "value": "Stonn The Grizzled",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Wolf",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

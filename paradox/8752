@@ -1,0 +1,38 @@
+{
+  "name": "#8752 Ghakkilr The Malicious",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kings head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/8752.png",
+  "attributes": [
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Juggernaut",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fallen Rose",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mantle Staff (r)",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Malicious",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Wraith",
+      "trait_type": "Status"
+    },
+    {
+      "value": "Fallen Left Wing",
+      "trait_type": "Background"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

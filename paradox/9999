@@ -1,0 +1,38 @@
+{
+  "name": "#9999 Valmor Veinborn - Blood of Flames",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kings head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/9999.png",
+  "attributes": [
+    {
+      "value": "Eyelord\"",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bloodlust",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sky Splitter Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Tribal Bloody Alchemyst",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sky Splitter Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Red Keep Dungeon",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Wraith",
+      "trait_type": "Status"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

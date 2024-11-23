@@ -1,0 +1,34 @@
+{
+  "name": "#769 Upe The Red",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/769.png",
+  "attributes": [
+    {
+      "value": "Goat Head",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Blood Flame Embrace",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Mantle Staff l",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Fallen Left Wing",
+      "trait_type": "Background"
+    },
+    {
+      "value": " The Red ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

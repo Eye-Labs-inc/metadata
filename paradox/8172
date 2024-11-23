@@ -1,0 +1,18 @@
+{
+  "name": "#8172  Xenia The Red - Malice",
+  "description": "Once known as the fairest Eye kin to ever walk the realms, after the death of her children by the hand of her husband Blut Blutfin, something snapped in Maliceye, and she killed Blut the Red King. Now, Queen Malice is set on killing all the kings of the realms of the Eyeverse. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/8172.png",
+  "attributes": [
+    {
+      "value": "Malice",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Queen",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "#8176 Vokr Broken Blood - Blood of Ice",
+  "description": "Vokr Broken Blood was the self-proclaimed King of Ice. He was known for his ruthless nature and was given membership to the Blood 10 due to his strength. He stood at 8 feet and 7 inches tall and was watched closely by Blut Blutfin, the late Red King.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/8176.png",
+  "attributes": [
+    {
+      "value": "Vokr Broken Blood",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Ice",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

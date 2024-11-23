@@ -1,0 +1,34 @@
+{
+  "name": "#6802 Mazgamon VeinBorn ",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/6802.png",
+  "attributes": [
+    {
+      "value": "Blood Magic Eye l",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dual Dark Shoulder Brace",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Liliac",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Red Keep Entrance",
+      "trait_type": "Background"
+    },
+    {
+      "value": " VeinBorn ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

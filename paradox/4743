@@ -1,0 +1,34 @@
+{
+  "name": "#4743 Vosherguc Pale Blood",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/4743.png",
+  "attributes": [
+    {
+      "value": "Goat Head",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lightning Spartan Cape",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Nightwatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Staff Of Eagles",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Red Beyond",
+      "trait_type": "Background"
+    },
+    {
+      "value": " Pale Blood ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

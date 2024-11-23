@@ -1,0 +1,18 @@
+{
+  "name": "#7206 Gabrer The Deadly - Blood of Ape",
+  "description": "The Blood of Ape, Gabrer The Deadly was a well known warrior in the Land of red. An 8 foot 3 inch Lord with unmatched physical strength. During a duel with a being known as the Ape King, he won, and to his surprise immediately after, he saw himself shedding his horns, and developing an Ape like body. He is now physically stronger than he ever was.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/7206.png",
+  "attributes": [
+    {
+      "value": "Gabrer The Deadly",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Ape",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "#5431 Gegssend Bleedworth - The Robot Vagabond",
+  "description": "An experiment of the deities, who happened to find himself in the Land of Red. He was named by the leader of the Bleedworth tribe only to then disappear into the Land with no trace. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/5431.png",
+  "attributes": [
+    {
+      "value": "Gegssend Bleedworth",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Robot",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

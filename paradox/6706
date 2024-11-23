@@ -1,0 +1,34 @@
+{
+  "name": "#6706 Brolronoth Red Skin",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/6706.png",
+  "attributes": [
+    {
+      "value": "Black Billy Goat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bicorn Tail Brace",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Vampire King",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Dark Henge",
+      "trait_type": "Background"
+    },
+    {
+      "value": " Red Skin ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

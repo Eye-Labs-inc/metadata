@@ -1,0 +1,34 @@
+{
+  "name": "#468 Sgeindidaf The Deadly",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/468.png",
+  "attributes": [
+    {
+      "value": "Black Billy Goat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bloody Lions Mane",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Azrael",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Malices Throne",
+      "trait_type": "Background"
+    },
+    {
+      "value": " The Deadly ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

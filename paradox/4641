@@ -1,0 +1,18 @@
+{
+  "name": "#4641 Jein The Bloody - The Lion Vagabond",
+  "description": "The Lion Vagabond of the Vagabonds of Red, Jein the Bloody. He stood at a massive 9 Foot tall build, hosting a lions mane. Not talkative, extremely violent, and quite mysterious as to the nature of how he looks. He resides on the southern outskirts of the Beyond. He is feared as one of the mightiest creatures of the realm",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/4641.png",
+  "attributes": [
+    {
+      "value": "Jein The Bloody",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Lion",
+      "trait_type": "AFFINITY"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

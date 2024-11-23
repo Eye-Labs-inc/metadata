@@ -1,0 +1,18 @@
+{
+  "name": "#1114 Batul Redskin - Blood of Undead ",
+  "description": "The Blood of Undead, Batul Redskin was one of the fairest lords of the Land of Red. She stands at 7 Feet and 9 inches tall. Batul during a particular raid fell upon a certain dungeon, and whilst she was there a particular hag spoke to her and promised her power & strength. Batul hastily agreed, and found that with her power, came an unlikely appearance. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/1114.png",
+  "attributes": [
+    {
+      "value": "Batul Redskin",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Undead",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

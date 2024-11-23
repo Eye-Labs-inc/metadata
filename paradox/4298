@@ -1,0 +1,18 @@
+{
+  "name": "#4298 Kors Sky death - Blood of Lightning",
+  "description": "The Blood of Lightning, Kors Skydeth was the fastest of the Blood 10. His stature was never measured for when Kors came into existence he almost always looked like a shimmer. A day would see him tall and another shorter. It was said that Kors was responsible for all the thunderstorms of the red realm.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/4298.png",
+  "attributes": [
+    {
+      "value": "Lightning",
+      "trait_type": "AFFINITY"
+    },
+    {
+      "value": "Kors Sky death",
+      "trait_type": "Character"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

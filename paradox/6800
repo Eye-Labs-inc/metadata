@@ -1,0 +1,18 @@
+{
+  "name": "#6800 Jelr The Grizzled - The Dog Vagabond",
+  "description": "Jelr was always a friendly existence within the Eye Kin. He was favored by the Deity of Blood Vein, and due to that she gifted him with abilities beyond others. He now is the Dog Vagabond, a godlike being that is able to smell & identify even the memories of other beings. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/6800.png",
+  "attributes": [
+    {
+      "value": "Jelr The Grizzled",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dog",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

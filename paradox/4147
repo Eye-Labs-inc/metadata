@@ -1,0 +1,34 @@
+{
+  "name": "#4147 Crerbalgholm Darkturn ",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/4147.png",
+  "attributes": [
+    {
+      "value": "Blood Crown",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bicorn Tail Brace",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Avvoltoio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Malices Portal ",
+      "trait_type": "Background"
+    },
+    {
+      "value": " Darkturn ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

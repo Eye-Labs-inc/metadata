@@ -1,0 +1,18 @@
+{
+  "name": "#2646 Aern Darkturn - Blood of Neon",
+  "description": "The Blood of Neon, Aern Darkturn was an 8 Foot tall member of the Blood 10. Previously a curious Eye kin that had a great admiration of the lights in the skies of the Beyond. It is said that one day after a century of absence in the beyond he understood the Aurora so well he became a representation of it. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/2646.png",
+  "attributes": [
+    {
+      "value": "Aern Darkturn",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Neon",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

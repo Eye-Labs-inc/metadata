@@ -1,0 +1,18 @@
+{
+  "name": "#8173 Valmor Veinborn - Blood of Flames",
+  "description": "The Blood of Flames, known to be the strongest of the Blood 10. The 8 Foot tall Valmor is the Leader of the first Division serving under the late King of Red. He now serves Queen Malice. Valmor is respected among all his peers, and is known despite his Fiery affinity to be wise and collected.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/8173.png",
+  "attributes": [
+    {
+      "value": "Valmor Veinborn",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Flames",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

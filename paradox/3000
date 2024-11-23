@@ -1,0 +1,18 @@
+{
+  "name": "#3000 Liten The Malicious - The Snake Vagabond ",
+  "description": "A story was once told of a Eye Kin who was so full of hate & envy of everything she saw. Liten The Malicious once saw a Golden Snake in the Red Forest, and instead of admiring the beauty of the Deity Like creature, she attempted at it’s life only to find herself a day later cursed turning into her present form. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/3000.png",
+  "attributes": [
+    {
+      "value": "Liten The Malicious",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Snake",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "#9181 Knuleqmo RedSky ",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/9181.png",
+  "attributes": [
+    {
+      "value": "Goat Demon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lightning Spartan Cape",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Head Staff",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Hidden Snake Alley",
+      "trait_type": "Background"
+    },
+    {
+      "value": " RedSky ",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Wraith",
+      "trait_type": "Status"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

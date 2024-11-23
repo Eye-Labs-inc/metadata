@@ -1,0 +1,34 @@
+{
+  "name": "#5083 Bhulse Red Grell",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/5083.png",
+  "attributes": [
+    {
+      "value": "Blood Billy Goat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Royal Bloody Shoulders",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dual Caliburn",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Hidden Red Cave",
+      "trait_type": "Background"
+    },
+    {
+      "value": " Red Grell ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

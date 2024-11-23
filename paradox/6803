@@ -1,0 +1,34 @@
+{
+  "name": "#6803 Redgezen The Bloody",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/6803.png",
+  "attributes": [
+    {
+      "value": "Eagle",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tatted Fall Of Mane",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Single Head Staff r",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Dark Henge Side",
+      "trait_type": "Background"
+    },
+    {
+      "value": " The Bloody ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

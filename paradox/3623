@@ -1,0 +1,34 @@
+{
+  "name": "#3623 Knuleqmo The Bloody",
+  "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/3623.png",
+  "attributes": [
+    {
+      "value": "Black Billy Goat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bicorn Tail Brace",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Daywatcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Liliac",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Blood River Bed",
+      "trait_type": "Background"
+    },
+    {
+      "value": " The Bloody ",
+      "trait_type": "Tribe"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

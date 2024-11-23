@@ -1,0 +1,18 @@
+{
+  "name": "#5755 Juf Veinborn - Blood of the Owl ",
+  "description": "The Blood of the Owl, Juf Veinborn is a cousin to Valmor a shorter stature of 7 feet, he was known to be the Vagabond of the Blood 10. Always on the look around the outskirts of the Land of Red. Juf’s owl like helmet contained his uncontrollable ability to call & see through birds of the night. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/5755.png",
+  "attributes": [
+    {
+      "value": "Juf Veinborn",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Owl",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}

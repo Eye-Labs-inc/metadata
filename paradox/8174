@@ -1,0 +1,18 @@
+{
+  "name": "#8174 Vein’s Exemplar - Golden Realm",
+  "description": "This being was rarely seen across the land of red. Vein’s Exemplar was there to record, and report to the Golden realm. ",
+  "image": "https://eyeverse.s3.amazonaws.com/paradox/images/8174.png",
+  "attributes": [
+    {
+      "value": "Vein’s Exemplar",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Golden",
+      "trait_type": "Affinity"
+    }
+  ],
+  "external_url": "https://eyeverse.world/paradox",
+  "seller_fee_basis_points": 0,
+  "compiler": "Eye Labs"
+}
