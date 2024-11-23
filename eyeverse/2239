@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2239",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2239.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger Jail",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakening Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

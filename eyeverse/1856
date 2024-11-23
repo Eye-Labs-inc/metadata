@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1856",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1856.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sickle Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Rising",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

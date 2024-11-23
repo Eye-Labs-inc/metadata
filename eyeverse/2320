@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2320",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2320.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Ignite",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Billy Goat Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

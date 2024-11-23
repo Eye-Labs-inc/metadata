@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #935",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/935.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Skull Watchers",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

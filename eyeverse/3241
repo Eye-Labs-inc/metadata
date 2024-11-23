@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3241",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3241.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Impalers (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

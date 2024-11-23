@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1289",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1289.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Dagger Master",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Half Skull Turtle impaler (L) ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

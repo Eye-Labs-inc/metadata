@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2476",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2476.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Telepath Long swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Body Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

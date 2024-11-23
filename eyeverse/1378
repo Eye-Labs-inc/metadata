@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1378",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1378.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sickle Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

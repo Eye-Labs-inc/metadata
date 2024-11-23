@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3146",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3146.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Arrows",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Stag",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

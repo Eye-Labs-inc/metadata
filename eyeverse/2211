@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2211",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2211.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Scope Ring",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

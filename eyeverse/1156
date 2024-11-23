@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1156",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1156.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Fallen Angel Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Watching Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

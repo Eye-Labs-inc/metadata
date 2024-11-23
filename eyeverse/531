@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #531",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/531.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Burning Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Nimble Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Awakened Eye",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

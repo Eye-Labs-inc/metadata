@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #3283",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3283.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Long Swords Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Vizard of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Awakened Ring Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

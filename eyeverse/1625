@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1625",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1625.gif",
+  "attributes": [
+    {
+      "value": "Enlightened",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Paradox Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Paradox Shooting Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Paradox Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

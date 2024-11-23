@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #86",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/86.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Vizard of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Impalers",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

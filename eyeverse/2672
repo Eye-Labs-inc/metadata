@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2672",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2672.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Winter Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

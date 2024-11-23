@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #670",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/670.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Demon Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Hell's Desert Cape",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #8",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

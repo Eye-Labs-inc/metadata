@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #468",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/468.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (L)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Clawed Fury Swipees",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

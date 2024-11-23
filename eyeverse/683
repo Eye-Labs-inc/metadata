@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #683",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/683.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Right",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Shell (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

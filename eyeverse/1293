@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1293",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1293.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Elder Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #895",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/895.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Elder Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Scope Ring",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

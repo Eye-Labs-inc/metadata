@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1583",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1583.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Short swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Floating Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

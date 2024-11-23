@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #728",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/728.png",
+  "attributes": [
+    {
+      "value": "Enlightened",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Paradox Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Paradox Jailer's Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Paradox Spartan Frozen Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

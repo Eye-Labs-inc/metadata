@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3178",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/3178.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blessed Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Intersecting Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

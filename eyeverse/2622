@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2622",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2622.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

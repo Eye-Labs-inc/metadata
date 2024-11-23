@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2273",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2273.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Sword",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

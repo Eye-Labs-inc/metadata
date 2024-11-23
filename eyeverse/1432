@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1432",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1432.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos's Fury (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

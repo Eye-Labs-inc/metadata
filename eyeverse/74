@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #74",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/74.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Demon Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Tribal Armor & Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

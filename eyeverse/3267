@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3267",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3267.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Eland Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2252",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2252.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Horizon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Tribal Armor & Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

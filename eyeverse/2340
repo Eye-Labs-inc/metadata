@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2340",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2340.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Springbok Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

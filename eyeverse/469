@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #469",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/469.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Swords Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

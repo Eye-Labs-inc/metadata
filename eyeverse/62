@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #62",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/62.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (L)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

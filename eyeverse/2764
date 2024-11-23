@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #2764",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2764.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Dagger Master",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Scope Ring",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Twin Turtle Skull Horns",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splash #42",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2523",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2523.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Poison Lilly ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Intersecting Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Vizard ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3161",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3161.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Queen",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocratic Left",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Billy Goat Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

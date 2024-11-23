@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #779",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/779.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Skull Watchers",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Guts Left",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

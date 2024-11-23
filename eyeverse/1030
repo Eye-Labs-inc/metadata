@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #1030",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1030.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Blade Throne",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "X Halo Scope",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

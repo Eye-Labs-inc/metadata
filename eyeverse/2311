@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2311",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2311.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Fallen Angel Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Shell (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

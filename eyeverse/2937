@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2937",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2937.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (R)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Skull Turtle Shell",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #972",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/972.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blade Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bleeding Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

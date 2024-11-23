@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2304",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2304.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Impalers (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

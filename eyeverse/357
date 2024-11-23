@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #357",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/357.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

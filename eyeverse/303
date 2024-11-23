@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #303",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/303.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Arrows",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splash #55",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

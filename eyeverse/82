@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #82",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/82.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Scope Ring",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape (W)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

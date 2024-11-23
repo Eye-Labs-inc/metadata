@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3147",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3147.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Elder Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull twin halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulders Rings Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

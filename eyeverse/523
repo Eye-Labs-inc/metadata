@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #523",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/523.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Dulker Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Demon Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Awakened Eye",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Spray #15",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

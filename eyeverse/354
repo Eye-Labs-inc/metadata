@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #354",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/354.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blessed Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demon Vizard (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

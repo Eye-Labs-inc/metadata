@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #175",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/175.gif",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Enlightened",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Paradox Blessed Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Paradox X Halo Scope",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Paradox Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

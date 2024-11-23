@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3070",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3070.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blade Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

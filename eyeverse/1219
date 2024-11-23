@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #1219",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1219.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splash #50",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

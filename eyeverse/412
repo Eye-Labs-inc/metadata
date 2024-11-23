@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #412",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/412.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Broken Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bleeding Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

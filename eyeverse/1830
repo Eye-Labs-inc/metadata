@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #1830",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1830.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Hammer Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Jailer's Halo",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Shoulders Rings Brace",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Spray #5",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

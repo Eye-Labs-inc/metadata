@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1585",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1585.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Eland Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Stag",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Billy Goat Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

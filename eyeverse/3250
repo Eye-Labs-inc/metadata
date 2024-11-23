@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3250",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3250.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Heavy wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Risen Demon Skull",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos's Fury (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

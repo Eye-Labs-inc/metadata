@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #2657",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2657.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Rooted Risen Demon Skull",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Fused Black Armor (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

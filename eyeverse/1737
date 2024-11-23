@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1737",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1737.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

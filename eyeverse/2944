@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2944",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2944.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3077",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3077.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy ignited Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Right",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Skull's Turtle Impaler",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2820",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2820.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Rising",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

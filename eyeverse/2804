@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #2804",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2804.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Faux Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Spartan Frozen Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

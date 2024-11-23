@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2851",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2851.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Arrows",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Turtle Skull Horns",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

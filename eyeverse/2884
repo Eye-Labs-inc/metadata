@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #2884",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2884.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Heavy Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Impaler Guard",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #28",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

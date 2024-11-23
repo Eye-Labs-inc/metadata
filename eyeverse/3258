@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3258",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3258.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Mace",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Jailer's Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Awakened Eye",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

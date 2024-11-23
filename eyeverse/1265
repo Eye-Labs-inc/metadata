@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1265",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1265.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Skull Watchers",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Skull Turtle Shell",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

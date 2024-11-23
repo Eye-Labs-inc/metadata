@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3181",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3181.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

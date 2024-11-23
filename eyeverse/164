@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #164",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/164.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Shiva",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

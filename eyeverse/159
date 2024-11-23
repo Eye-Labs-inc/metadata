@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #159",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/159.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Mace",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kudu Skull Turtle Plate (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

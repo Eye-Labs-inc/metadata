@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2079",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2079.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary Scope",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Guts Left",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

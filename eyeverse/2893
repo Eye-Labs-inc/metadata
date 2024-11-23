@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2893",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2893.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Cracked Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Right",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

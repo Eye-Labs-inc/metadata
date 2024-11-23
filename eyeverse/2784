@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2784",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2784.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Mace",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Warrior (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

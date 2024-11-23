@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2940",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2940.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

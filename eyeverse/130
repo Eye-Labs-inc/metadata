@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #130",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/130.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Telepath Long swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Berserker",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

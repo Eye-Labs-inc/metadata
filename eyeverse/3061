@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3061",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3061.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Stag",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Ring Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

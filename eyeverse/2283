@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #2283",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2283.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Heavy Axe Left",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Awakening Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3067",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3067.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sickle Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Risen Demon Skull",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Impalers (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1749",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1749.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Ring Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

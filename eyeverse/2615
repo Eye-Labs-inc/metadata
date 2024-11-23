@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2615",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2615.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Short swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Light",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

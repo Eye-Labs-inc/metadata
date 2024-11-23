@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #940",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/940.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakening Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

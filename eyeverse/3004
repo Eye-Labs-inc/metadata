@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3004",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3004.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Light",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Turtle Skull Horns",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #341",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/341.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Tribal Armor & Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

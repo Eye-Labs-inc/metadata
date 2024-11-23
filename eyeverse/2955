@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2955",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2955.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger's Eye ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

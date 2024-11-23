@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1818",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1818.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Speed Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Skull Turtle Impaler ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

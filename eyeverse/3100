@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3100",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3100.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

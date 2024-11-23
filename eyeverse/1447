@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1447",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1447.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Springbok Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Scope Ring",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

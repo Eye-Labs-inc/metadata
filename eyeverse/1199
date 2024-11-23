@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1199",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1199.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

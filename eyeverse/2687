@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2687",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2687.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (R)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Shell (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

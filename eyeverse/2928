@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2928",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2928.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Springbok Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

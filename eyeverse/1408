@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1408",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1408.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Horizon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

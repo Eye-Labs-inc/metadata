@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2691",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2691.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Demon Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

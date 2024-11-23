@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2416",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2416.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sickle Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

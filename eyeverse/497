@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #497",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/497.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Vizard of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

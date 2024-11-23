@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #7",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/7.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Scope Ring",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Warrior (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

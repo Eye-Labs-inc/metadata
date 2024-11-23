@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2059",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2059.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Swords Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

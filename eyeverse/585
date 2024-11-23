@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #585",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/585.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Short swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Brace (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

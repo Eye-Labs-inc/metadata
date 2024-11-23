@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #601",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/601.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Poison Lilly ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Left",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

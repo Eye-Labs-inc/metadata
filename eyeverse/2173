@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2173",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2173.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (L)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2983",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2983.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Ignite",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Skull Turtle Impaler ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1552",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1552.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

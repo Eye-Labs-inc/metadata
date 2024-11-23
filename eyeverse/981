@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #981",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/981.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Impaler Guard",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

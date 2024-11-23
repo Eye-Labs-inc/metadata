@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #37",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/37.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

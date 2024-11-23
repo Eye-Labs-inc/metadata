@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2702",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2702.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Watching Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Button Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

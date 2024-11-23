@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #832",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/832.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Dulker Wings Red",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

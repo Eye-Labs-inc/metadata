@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #1814",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1814.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Nimble Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Master ",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #72",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

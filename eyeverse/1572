@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1572",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1572.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocrat's Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

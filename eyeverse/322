@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #322",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/322.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Double Impaler",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #54",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

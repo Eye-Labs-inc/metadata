@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #699",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/699.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Eye Wasp ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

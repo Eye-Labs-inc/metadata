@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #915",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/915.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Blade Throne",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #69",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

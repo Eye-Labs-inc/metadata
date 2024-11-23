@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1155",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1155.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

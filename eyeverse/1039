@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1039",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1039.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocrat's Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

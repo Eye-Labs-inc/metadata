@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2076",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2076.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Telepath Long swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

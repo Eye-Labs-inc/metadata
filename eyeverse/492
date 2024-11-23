@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #492",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/492.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Dulker Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Divine Watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Guts Left",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

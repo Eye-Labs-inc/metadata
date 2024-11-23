@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1722",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1722.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blessed Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Ribs",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

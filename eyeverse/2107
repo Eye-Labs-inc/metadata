@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2107",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2107.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Skull Watchers",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Shell (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

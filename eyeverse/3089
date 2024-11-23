@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3089",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3089.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #282",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/282.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Springbok Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (R)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Brace (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

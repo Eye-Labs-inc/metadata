@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2932",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2932.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Fallen Angel Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

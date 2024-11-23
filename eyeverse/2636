@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2636",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2636.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Eye Wasp ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Vizard ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

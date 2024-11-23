@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2112",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2112.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Twin Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Button Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

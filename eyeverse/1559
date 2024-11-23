@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1559",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1559.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Horizon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

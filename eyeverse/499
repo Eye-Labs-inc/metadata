@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #499",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/499.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Horizon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Double Impaler",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

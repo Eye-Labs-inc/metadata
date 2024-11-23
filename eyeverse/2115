@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2115",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2115.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Springbok Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Impaler Guard",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

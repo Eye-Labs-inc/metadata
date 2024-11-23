@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #558",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/558.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Elder Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Floating Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Guts Left",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1499",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1499.gif",
+  "attributes": [
+    {
+      "value": "Enlightened",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Paradox Red Ignite",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Paradox Eye Light",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Paradox Red Awakened Eye",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

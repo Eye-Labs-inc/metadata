@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #142",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/142.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sickle Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Clawed Fury Swipees",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splash #9",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

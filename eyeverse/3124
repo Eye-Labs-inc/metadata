@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3124",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3124.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Jailer's Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Impalers (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

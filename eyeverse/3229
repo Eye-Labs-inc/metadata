@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3229",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3229.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blade Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger Eye Shiva",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Ribs",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

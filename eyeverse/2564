@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2564",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2564.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Poison Lilly ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3311",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3311.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Sword",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Shooting Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Guts Left",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

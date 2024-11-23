@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2537",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2537.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Blade Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (R)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Spartan Skull (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

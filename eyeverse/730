@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #730",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/730.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy ignited Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2978",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2978.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Thorn Skull watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kudu Skull Turtle Plate (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

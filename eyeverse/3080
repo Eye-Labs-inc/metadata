@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3080",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3080.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Sword ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Kudu Berserker",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

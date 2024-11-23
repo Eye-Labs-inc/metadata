@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1129",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1129.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Burning Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Rising",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

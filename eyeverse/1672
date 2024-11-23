@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1672",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1672.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Elder Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

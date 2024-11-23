@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2526",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2526.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

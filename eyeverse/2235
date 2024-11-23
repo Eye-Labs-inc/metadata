@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2235",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2235.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

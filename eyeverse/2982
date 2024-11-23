@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2982",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2982.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocratic Left",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #882",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/882.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Skull Tribe",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

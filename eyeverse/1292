@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1292",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1292.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Wasp Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horizon Watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Hunter",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

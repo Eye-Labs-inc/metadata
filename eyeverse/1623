@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #1623",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1623.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Cracked Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger's Eye ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Body Scorpion Infused",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Spray #36",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

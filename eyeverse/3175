@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3175",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3175.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Skull Watchers",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull twin halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Clawed Fury Swipees",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

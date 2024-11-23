@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1591",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1591.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

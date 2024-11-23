@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3252",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3252.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Broken Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bloody Horizon Watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Master ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

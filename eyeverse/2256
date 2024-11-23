@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2256",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2256.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Master ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

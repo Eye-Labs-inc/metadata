@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #482",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/482.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos's Fury (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1624",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1624.png",
+  "attributes": [
+    {
+      "value": "Enlightened",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Paradox Eye Wasp",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Paradox X Halo Scope",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Paradox Red Rising",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

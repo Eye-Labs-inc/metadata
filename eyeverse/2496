@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2496",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2496.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Risen Demon Skull",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

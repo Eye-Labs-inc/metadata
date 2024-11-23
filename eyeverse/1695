@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1695",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1695.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Twin Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

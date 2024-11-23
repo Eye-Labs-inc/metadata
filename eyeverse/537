@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #537",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/537.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Turtle Skull Horns",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #10",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

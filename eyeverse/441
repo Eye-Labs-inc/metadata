@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #441",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/441.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horizon Watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

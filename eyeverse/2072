@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2072",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2072.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kudu Skull Turtle Plate (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

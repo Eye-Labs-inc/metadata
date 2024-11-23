@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1022",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1022.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Skull Tribe",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

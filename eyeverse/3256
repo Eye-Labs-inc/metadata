@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3256",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3256.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

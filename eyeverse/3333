@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3333",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3333.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "6 Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye King",
+      "trait_type": "Character"
+    },
+    {
+      "value": "King's Replica",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

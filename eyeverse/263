@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #263",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/263.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Cracked Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Impaler (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

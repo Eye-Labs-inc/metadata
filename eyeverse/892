@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #892",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/892.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sickle Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Hunter",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

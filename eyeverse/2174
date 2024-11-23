@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2174",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2174.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Kudu Eye Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

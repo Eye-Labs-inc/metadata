@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #573",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/573.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Swords Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

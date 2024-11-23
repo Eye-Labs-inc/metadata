@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2049",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2049.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Cracked Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

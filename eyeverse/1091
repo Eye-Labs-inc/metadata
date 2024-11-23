@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1091",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1091.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

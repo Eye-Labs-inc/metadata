@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #1483",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1483.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Faux Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Rooted Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Skull Turtle Impaler (L)",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #13",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

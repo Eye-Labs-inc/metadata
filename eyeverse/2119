@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2119",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2119.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

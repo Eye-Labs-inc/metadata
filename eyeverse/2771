@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2771",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2771.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Broken Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

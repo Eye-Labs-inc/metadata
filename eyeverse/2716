@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2716",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2716.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger's Eye ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

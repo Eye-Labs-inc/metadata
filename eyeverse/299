@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #299",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/299.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Demonic Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Helmet of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Clawed Fury Swipees",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

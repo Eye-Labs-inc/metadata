@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #269",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/269.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Broken Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Right",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Shell (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

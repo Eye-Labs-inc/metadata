@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1969",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1969.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Kudu Eye Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape (W)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

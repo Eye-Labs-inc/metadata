@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #440",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/440.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Twin Mace",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Rising",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Body Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

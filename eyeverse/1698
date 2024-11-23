@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1698",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1698.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Kudu Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Floating Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1028",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1028.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakening Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

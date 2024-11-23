@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #272",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/272.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Skull's Turtle Impaler",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

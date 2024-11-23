@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #785",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/785.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Desert Traveller (R)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

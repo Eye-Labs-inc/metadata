@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3248",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3248.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Telepath Long swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Prince",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Left",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

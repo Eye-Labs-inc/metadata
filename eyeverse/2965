@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2965",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2965.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Arrows",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Left",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape (W)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

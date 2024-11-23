@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2384",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2384.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bleeding Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

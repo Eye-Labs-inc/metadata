@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1998",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1998.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Faux Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Nimble Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Half Skull Turtle impaler (L) ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

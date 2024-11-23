@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2975",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2975.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Clawed Fury Swipees",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

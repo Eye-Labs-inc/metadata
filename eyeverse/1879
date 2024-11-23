@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #1879",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1879.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Devil's Ribs",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2096",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2096.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bleeding Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Button Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

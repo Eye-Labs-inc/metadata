@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3106",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3106.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Arrows",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Horizon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2145",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2145.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Shooting Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

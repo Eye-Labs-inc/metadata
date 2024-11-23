@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #352",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/352.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Divine Planetary",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

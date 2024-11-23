@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1450",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1450.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos's Fury (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

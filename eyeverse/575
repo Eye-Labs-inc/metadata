@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #575",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/575.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Snake Tamer Scoped",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #64",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

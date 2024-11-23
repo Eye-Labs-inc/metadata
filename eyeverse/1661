@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1661",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1661.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Helmet of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Spartan Skull (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

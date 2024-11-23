@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1971",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1971.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Divine Planetary",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

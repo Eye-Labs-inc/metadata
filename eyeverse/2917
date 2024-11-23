@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2917",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2917.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Shiva",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

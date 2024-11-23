@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2578",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2578.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

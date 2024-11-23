@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #1868",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1868.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Aristocratic Right",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Devil's Ribs",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #18",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1317",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1317.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Shooting Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

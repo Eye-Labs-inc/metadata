@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #878",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/878.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "X Halo Scope",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakening Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

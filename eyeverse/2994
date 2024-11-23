@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #2994",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2994.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Left Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Queen",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Spartan Frozen Brace",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #12",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

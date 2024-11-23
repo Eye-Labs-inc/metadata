@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #343",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/343.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "6 Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Spartan Skull (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

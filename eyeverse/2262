@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2262",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2262.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Broken Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocratic Left",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

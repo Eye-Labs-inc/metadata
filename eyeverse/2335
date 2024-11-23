@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2335",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2335.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Kudu Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Body Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2271",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2271.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

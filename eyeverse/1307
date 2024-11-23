@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1307",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1307.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Pixie Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Double Impaler",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

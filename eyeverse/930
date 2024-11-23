@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #930",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/930.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Thorn Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Light",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

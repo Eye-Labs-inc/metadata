@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1930",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1930.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Support",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Spartan Skull (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

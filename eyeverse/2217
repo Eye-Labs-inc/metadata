@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2217",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2217.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

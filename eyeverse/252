@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #252",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/252.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Cracked Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger Jail",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Warrior (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

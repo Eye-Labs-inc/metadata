@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #64",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/64.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Fury Swipes",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #1962",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1962.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Scorpion Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Fused Red Armor",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

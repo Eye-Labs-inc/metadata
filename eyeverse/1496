@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1496",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1496.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Demon Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Guts Left",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

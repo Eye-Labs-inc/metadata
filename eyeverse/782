@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #782",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/782.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Helmet of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Brace (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

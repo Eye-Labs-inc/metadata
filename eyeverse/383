@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #383",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/383.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Burning Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape (W)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

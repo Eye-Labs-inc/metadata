@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3268",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3268.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Faux Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

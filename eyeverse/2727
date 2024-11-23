@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #2727",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2727.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Dulker Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Survey Cape",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #74",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

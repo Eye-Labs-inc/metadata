@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2287",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2287.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

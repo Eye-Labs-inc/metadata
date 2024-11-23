@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #271",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/271.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Kudu Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Half Skull Turtle impaler (L) ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

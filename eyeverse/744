@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #744",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/744.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Fallen Angel Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Nimble Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Berserker",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1240",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1240.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Brace (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

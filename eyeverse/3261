@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3261",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3261.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Planetary ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Double Impaler",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

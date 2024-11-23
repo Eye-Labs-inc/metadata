@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1904",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1904.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Kudu Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

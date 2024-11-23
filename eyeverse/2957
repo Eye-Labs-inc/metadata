@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2957",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2957.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (L)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Ribs",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

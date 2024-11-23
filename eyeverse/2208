@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2208",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2208.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Thorn Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

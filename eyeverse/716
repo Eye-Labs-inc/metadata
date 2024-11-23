@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #716",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/716.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "6 Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Billy Goat Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

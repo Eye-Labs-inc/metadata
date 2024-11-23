@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1479",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1479.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Kudu Eye Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

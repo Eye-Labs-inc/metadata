@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2489",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2489.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Ignite",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Kudu Warrior",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Awakened Eye",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1429",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1429.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Telepath Long swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Hunter",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

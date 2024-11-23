@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2052",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2052.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Helmet of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape (W)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

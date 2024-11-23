@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #2413",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2413.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

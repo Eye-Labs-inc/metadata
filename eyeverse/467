@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #467",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/467.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demon Vizard (L)",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #68",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

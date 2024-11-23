@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2850",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2850.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Burning Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocrat's Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red Awakened Eye",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #189",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/189.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horizon Watch",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Master ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

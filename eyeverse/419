@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #419",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/419.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Fallen Angel Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Clawed Fury Swipees",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

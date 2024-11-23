@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1373",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1373.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demon Vizard (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

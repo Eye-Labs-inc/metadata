@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #229",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/229.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Fallen Angel Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Kudu Impaler (L)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scoped Body Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

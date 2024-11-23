@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3238",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3238.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "6 Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Halo of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Vizard ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1717",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1717.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Ignite",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Goats",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kratos's Fury (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

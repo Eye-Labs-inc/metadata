@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #376",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/376.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Demonic Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Vizard of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Tribal Armor & Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

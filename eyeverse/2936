@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #2936",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2936.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Rooted Demon Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Rising Rings Infused",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

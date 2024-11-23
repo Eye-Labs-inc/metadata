@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #126",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/126.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "6 Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "X Halo Scope",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Winter Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

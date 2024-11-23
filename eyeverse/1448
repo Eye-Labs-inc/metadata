@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1448",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1448.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Vizard of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Snake Tamer",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

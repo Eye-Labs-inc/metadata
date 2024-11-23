@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2468",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2468.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Left Sickle",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Nimble Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

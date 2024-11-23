@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #471",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/471.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Devil's Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Warrior (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

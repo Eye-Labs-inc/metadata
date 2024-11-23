@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #907",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/907.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Right",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

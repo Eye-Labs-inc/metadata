@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2956",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2956.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Poison Lilly ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Rising",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Warrior (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

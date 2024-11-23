@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #3009",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3009.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Faux Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

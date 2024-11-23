@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #491",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/491.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Dagger's Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Skull Tribe",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

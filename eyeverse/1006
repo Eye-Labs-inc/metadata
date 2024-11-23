@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1006",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1006.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Ignite",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Impaler Guard",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

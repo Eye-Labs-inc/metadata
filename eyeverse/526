@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #526",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/526.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull Turtle Impaler (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

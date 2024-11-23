@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #524",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/524.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kudu Skull Turtle Plate (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

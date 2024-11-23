@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1231",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1231.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Faux Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Desert Traveller (L)",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulders Rings Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

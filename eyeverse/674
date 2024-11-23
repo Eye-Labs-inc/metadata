@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #674",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/674.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Lord",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Risen Demon Skull",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Spartan Skull (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

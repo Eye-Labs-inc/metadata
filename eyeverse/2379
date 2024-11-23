@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2379",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2379.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Demon Vizards",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Desert Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

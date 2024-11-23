@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #767",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/767.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Skull Watchers",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Desert Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

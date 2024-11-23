@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1387",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1387.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Flame",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Thorn Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Impalers (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

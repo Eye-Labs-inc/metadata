@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1441",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1441.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Heavy wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Twin Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Hunter",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

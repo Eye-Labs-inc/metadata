@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2713",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2713.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Arrows Left",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Eye Horizon",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Ribs",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2696",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2696.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scythe Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Skull Turtle Shell",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

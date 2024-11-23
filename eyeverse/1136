@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1136",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1136.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Poison Lilly ",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Stag Eye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Warrior (L)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

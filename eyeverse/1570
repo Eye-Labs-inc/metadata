@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1570",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1570.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Kudu Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "SamurEye",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Frozen Brace (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

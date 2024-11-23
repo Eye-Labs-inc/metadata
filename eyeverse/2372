@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2372",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2372.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Telepath Long swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Demon Vizard Right",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Winter Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

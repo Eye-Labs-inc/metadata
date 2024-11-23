@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #2231",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2231.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Heavy Axe Left",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye King",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Kudu Impaler (L)",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Desert Cape",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #59",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

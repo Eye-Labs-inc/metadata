@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #373",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/373.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Demon Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "X Halo Scope",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Devil's Impalers",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

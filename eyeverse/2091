@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #2091",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2091.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Sword Trio",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Twin Watcher Halo",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Arc Scope",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Splatter #26",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

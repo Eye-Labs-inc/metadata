@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1512",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1512.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Tribal Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

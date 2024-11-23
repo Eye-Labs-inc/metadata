@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #3307",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3307.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Demon Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Dagger Jail",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Spartan Winter Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

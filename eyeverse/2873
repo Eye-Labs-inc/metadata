@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2873",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2873.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Broken Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Shooting Halo ",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Fused Black Armor (R)",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

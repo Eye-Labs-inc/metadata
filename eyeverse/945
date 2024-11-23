@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #945",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/945.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Sword Throne",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Horned Skull halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulder Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

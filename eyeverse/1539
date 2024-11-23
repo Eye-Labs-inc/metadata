@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1539",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1539.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "6 Horns",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Dagger Eye Shiva",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Survey Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

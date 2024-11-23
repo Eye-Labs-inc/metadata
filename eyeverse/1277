@@ -1,0 +1,32 @@
+{
+  "name": "Eyeverse #1277",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1277.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bleeding Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Spray #56",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

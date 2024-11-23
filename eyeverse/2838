@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2838",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2838.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword Right",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Red Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Awakened Brace Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1363",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1363.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Sword",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Princess",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Nimble Devil's Sidekick",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Skull Tribe",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

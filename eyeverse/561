@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #561",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/561.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Short sword trio",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Helmet of Thorns",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Tribal Armor & Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

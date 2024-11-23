@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #392",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/392.png",
+  "attributes": [
+    {
+      "value": "EyeKnighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Heavy Axe Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Watching Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frozen Desert Cape",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

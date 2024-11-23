@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #1400",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1400.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Red Flame",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Rooted Demon Skull Halo",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Demonic Vizard Snake",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

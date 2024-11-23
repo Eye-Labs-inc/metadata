@@ -1,0 +1,37 @@
+{
+  "name": "Eyeverse #3130",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3130.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Wasp Wings",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Risen Eyes",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Body Scorpion Infused",
+      "trait_type": "Front"
+    },
+    {
+      "value": "Spray #49",
+      "trait_type": "Cookie"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2604",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2604.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Quad Swords",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Divine Devil Planet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Shoulders Rings Brace",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Eyeverse #1167",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1167.png",
+  "attributes": [
+    {
+      "display_type": null,
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "display_type": null,
+      "value": "Hammer Axe ",
+      "trait_type": "Back"
+    },
+    {
+      "display_type": null,
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "display_type": null,
+      "value": "Aristocrat's Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "display_type": null,
+      "value": "Frozen Tribal Armor & Shield",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

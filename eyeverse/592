@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #592",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/592.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Sword",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Skull Stag",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Billy Goat Rings",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #1759",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1759.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Wasp Wings",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Night Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Aristocrat's Helmet",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Half Skull Turtle impaler (L) ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

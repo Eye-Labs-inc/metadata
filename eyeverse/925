@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #925",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/925.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Scorpion Sword",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rooted Risen Demon Skull",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Snake Tamer Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

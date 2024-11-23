@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #629",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/629.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Red Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Day Watcher",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The Devils Thorn bed",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spartan Kudu Berserker",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Eyeverse #2009",
+  "description": null,
+  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2009.png",
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "White Praying Tusks",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bleeding Thorn Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Twin Skull Turtle Impaler ",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye"
+}
