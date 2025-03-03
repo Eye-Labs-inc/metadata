@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyeverse #329</title>
+    <style>
+      body {
+          margin: 0;
+          overflow: hidden;
+          padding: 0;
+          text-align: center;
+      }
+      .container { 
+          margin: 0 auto;
+          padding: 0;
+          position: relative;
+          width: 100%;
+      }
+      .container img{
+          object-fit: contain;
+          width: 100%;
+      }
+      .logo-button {
+          position: absolute;
+          z-index: 10;
+          top: 10px;
+          left: 10px;
+          background: #1b1b1b;
+          border: white 1px solid;
+          border-radius: 3%;
+          padding: 1.5%;
+          cursor: pointer;
+      }
+      .logo-button img {
+          width: 12vw;
+          height: auto;
+      }
+      .hidden {
+          display: none;
+      }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button class="logo-button" onclick="toggleImage()">
+            <img src="eye.gif" alt="Logo">
+        </button>
+        <img id="original" src="https://eyeverse.s3.amazonaws.com/metadata/images/329.png" alt="Original NFT Image">
+        <img id="switched" class="hidden" src="https://eyeverse.s3.amazonaws.com/metadata/switched/329.gif" alt="Switched NFT Image">
+    </div>
+
+    <script>
+        function toggleImage() {
+            const originalImage = document.getElementById('original');
+            const switchedImage = document.getElementById('switched');
+            originalImage.classList.toggle('hidden');
+            switchedImage.classList.toggle('hidden');
+        }
+    </script>
+</body>
+</html>
