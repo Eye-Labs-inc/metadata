@@ -4,15 +4,22 @@ body {
     padding: 0;
     text-align: center;
 }
-.container { 
+.container {
     margin: 0 auto;
     padding: 0;
     position: relative;
     width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.container img{
+.container img {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
     object-fit: contain;
-    width: 100%;
 }
 .logo-button {
     position: absolute;
