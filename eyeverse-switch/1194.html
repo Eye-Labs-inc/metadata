@@ -4,42 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eyeverse #1194</title>
-    <style>
-      body {
-          margin: 0;
-          overflow: hidden;
-          padding: 0;
-          text-align: center;
-      }
-      .container { 
-          margin: 0 auto;
-          padding: 0;
-          position: relative;
-          width: 100%;
-      }
-      .container img{
-          object-fit: contain;
-          width: 100%;
-      }
-      .logo-button {
-          position: absolute;
-          z-index: 10;
-          top: 10px;
-          left: 10px;
-          background: #1b1b1b;
-          border: white 1px solid;
-          border-radius: 5%;
-          padding: 1.5%;
-          cursor: pointer;
-      }
-      .logo-button img {
-          width: 12vw;
-          height: auto;
-      }
-      .hidden {
-          display: none;
-      }
-    </style>
+    <style src="eyeverse.css"></style>
 </head>
 <body>
     <div class="container">
@@ -50,19 +15,6 @@
         <img id="image2" class="hidden" src="https://eyeverse.s3.amazonaws.com/metadata/switched/1194.gif" alt="Switched NFT Image">
         <img id="image3" class="hidden" src="https://eyeverse.s3.amazonaws.com/metadata/images/1194.png" alt="Original NFT Image">
     </div>
-
-    <script>
-        let currentImageIndex = 0;
-        const images = [
-            document.getElementById('image1'),
-            document.getElementById('image2'),
-            document.getElementById('image3')
-        ];
-        function toggleImage() {
-            images[currentImageIndex].classList.add('hidden');
-            currentImageIndex = (currentImageIndex + 1) % images.length;
-            images[currentImageIndex].classList.remove('hidden');
-        }
-    </script>
+    <script src="switch3.js"></script>
 </body>
 </html>
