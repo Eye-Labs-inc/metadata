@@ -3,6 +3,7 @@ body {
     overflow: hidden;
     padding: 0;
     text-align: center;
+    background-color: #1b1b1b;
 }
 .container {
     margin: 0 auto;
