@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/283.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Red Ignite",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "The Watched",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Eye Horizon",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Impaler Guard",
       "trait_type": "Front"
     }

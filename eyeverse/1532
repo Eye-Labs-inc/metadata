@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #1532",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1532.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Long Swords Berserker",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Dagger Jail",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Twin Shoulder Impalers",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1532",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1532.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Long Swords Berserker",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Dagger Jail",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Twin Shoulder Impalers",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1532.html"
 }

@@ -1,32 +1,33 @@
 {
-  "name": "Eyeverse #2117",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2117.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Skull Watchers",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Night Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Planetary Scope",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Skull Snake Tamer",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splash #25",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2117",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/2117.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Skull Watchers",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Night Watcher",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Planetary Scope",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Skull Snake Tamer",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splash #25",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2117.html"
 }

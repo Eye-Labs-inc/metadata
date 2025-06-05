@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2106.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Springbok Wings",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Night Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "King's Replica",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Survey Cape",
       "trait_type": "Front"
     }

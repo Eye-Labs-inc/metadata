@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #1370",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1370.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "6 Horns",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Day Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Aristocratic Left",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Red Awakened Eye",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #34",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1370",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1370.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "6 Horns",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Day Watcher",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Aristocratic Left",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Red Awakened Eye",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #34",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1370.html"
 }

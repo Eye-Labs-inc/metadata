@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3050.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Arrows",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Eye Prince",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Scope Ring",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Frozen Skull Tribe",
       "trait_type": "Front"
     }

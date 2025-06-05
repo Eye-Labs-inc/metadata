@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #2201",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2201.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Heavy Axe",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Speed Devil's Sidekick",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Desert Cape",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2201",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2201.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Heavy Axe",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Speed Devil's Sidekick",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Desert Cape",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2201.html"
 }

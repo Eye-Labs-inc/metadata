@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #2571",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2571.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Heavy Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Aristocratic Left",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Tribal Cape",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splash #4",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2571",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/2571.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Heavy Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Aristocratic Left",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Tribal Cape",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splash #4",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2571.html"
 }

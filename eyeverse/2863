@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2863.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Heavy Axe",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Eye Queen",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Divine Planetary",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Snake Tamer Scoped",
       "trait_type": "Front"
     }

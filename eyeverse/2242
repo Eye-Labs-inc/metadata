@@ -1,33 +1,29 @@
 {
-  "name": "Eyeverse #2242",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2242.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Enlightened",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Scythe Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Eye Horizon",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Spartan Frozen Scoped",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2242",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2242.gif",
+    "attributes": [
+        {
+                  "value": "Enlightened",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Paradox Scythe Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Paradox Eye Horizon",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Paradox Spartan Frozen Scoped",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2242.html"
 }

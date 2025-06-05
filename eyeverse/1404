@@ -1,32 +1,33 @@
 {
-  "name": "Eyeverse #1404",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1404.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Quad Swords",
-      "trait_type": "Back"
-    },
-    {
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Floating Thorns",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Red Awakened Eye",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #20",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1404",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1404.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Quad Swords",
+            "trait_type": "Back"
+        },
+        {
+            "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Floating Thorns",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Red Awakened Eye",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #20",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1404.html"
 }

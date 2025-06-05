@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #80",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/80.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Springbok Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Twin Demon Vizards",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Body Scorpion Infused",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #80",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/80.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Springbok Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Twin Demon Vizards",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Body Scorpion Infused",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/80.html"
 }

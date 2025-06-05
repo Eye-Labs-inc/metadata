@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #2849",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2849.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Scythe Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Princess",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Devil's Sidekick",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Scoped Fury Swipes",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #63",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2849",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/2849.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Scythe Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Princess",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Devil's Sidekick",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Scoped Fury Swipes",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #63",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2849.html"
 }

@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #2406",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2406.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Wasp ",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Lord",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Watching Kudu Warrior",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Kratos's Fury (R)",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #16",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2406",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/2406.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Eye Wasp ",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Lord",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Watching Kudu Warrior",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Kratos's Fury (R)",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #16",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2406.html"
 }

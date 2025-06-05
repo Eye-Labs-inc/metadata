@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #25",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/25.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Poison Lilly ",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Day Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Aristocratic Right",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Fused Black Armor (R)",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #38",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #25",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/25.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Poison Lilly ",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Day Watcher",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Aristocratic Right",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Fused Black Armor (R)",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #38",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/25.html"
 }

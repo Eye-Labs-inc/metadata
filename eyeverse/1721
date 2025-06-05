@@ -1,32 +1,33 @@
 {
-  "name": "Eyeverse #1721",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1721.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "White Ignite",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Horizon Watch",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Frozen Survey Cape",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #71",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1721",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1721.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "White Ignite",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Horizon Watch",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Frozen Survey Cape",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #71",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1721.html"
 }

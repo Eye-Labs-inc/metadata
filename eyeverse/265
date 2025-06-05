@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #265",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/265.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Left Sickle",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Bloody Horizon Watch",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Clawed Fury Swipees",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #265",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/265.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Left Sickle",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Bloody Horizon Watch",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Clawed Fury Swipees",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/265.html"
 }

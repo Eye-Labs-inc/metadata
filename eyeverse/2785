@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #2785",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2785.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Kudu Horns",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Lord",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Twin Halo",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Hell's Desert Cape (W)",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #11",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2785",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/2785.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Kudu Horns",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Lord",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Twin Halo",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Hell's Desert Cape (W)",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #11",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2785.html"
 }

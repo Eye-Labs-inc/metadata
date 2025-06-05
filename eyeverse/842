@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/842.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Long Sword Left",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Dagger Jail",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Survey Cape",
       "trait_type": "Front"
     }

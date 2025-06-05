@@ -1,33 +1,29 @@
 {
-  "name": "Eyeverse #2465",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2465.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "White Tusks",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Divine Planetary",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Frozen Skull Tribe",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2465",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2465.png",
+    "attributes": [
+        {
+                  "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "White Tusks",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Divine Planetary",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Frozen Skull Tribe",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2465.html"
 }

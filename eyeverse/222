@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #222",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/222.gif",
-  "attributes": [
-    {
-      "value": "Enlightened",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Paradox Scythe Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Paradox The Devils Thorn bed",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Paradox Spartan Frozen Scoped",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #222",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/222.gif",
+    "attributes": [
+        {
+            "value": "Enlightened",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Paradox Scythe Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Paradox The Devils Thorn bed",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Paradox Spartan Frozen Scoped",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/222.html"
 }

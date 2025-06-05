@@ -1,33 +1,29 @@
 {
-  "name": "Eyeverse #2789",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2789.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Long Sword Right",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Bleeding Thorn Halo",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Rising Rings Infused",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2789",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2789.png",
+    "attributes": [
+        {
+                  "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Long Sword Right",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Bleeding Thorn Halo",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Rising Rings Infused",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2789.html"
 }

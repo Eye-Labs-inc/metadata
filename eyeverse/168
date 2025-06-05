@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #168",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/168.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Blade Throne",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Night Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "The Devils Thorn bed",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Red Rising",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #30",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #168",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/168.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Blade Throne",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Night Watcher",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "The Devils Thorn bed",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Red Rising",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #30",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/168.html"
 }

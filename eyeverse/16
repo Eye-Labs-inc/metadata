@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/16.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "White Praying Tusks",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "The Watched",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Halo ",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Frozen Survey Cape",
       "trait_type": "Front"
     }

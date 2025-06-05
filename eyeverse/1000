@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #1000",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1000.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Kudu Horns",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Night Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Demon Vizard Left",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Red Awakened Eye",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splash #44",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1000",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1000.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Kudu Horns",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Night Watcher",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Demon Vizard Left",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Red Awakened Eye",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splash #44",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1000.html"
 }

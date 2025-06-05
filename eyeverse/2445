@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #2445",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2445.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Cracked Sickle",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Day Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Desert Traveller (R)",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Twin Vizard ",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #32",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2445",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/2445.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Cracked Sickle",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Day Watcher",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Desert Traveller (R)",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Twin Vizard ",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #32",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2445.html"
 }

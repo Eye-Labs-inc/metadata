@@ -1,33 +1,29 @@
 {
-  "name": "Eyeverse #1300",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1300.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Wasp Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Dagger Eye Shiva",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Red Rising",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1300",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1300.png",
+    "attributes": [
+        {
+                  "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Wasp Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Dagger Eye Shiva",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Red Rising",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1300.html"
 }

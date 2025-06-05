@@ -1,38 +1,33 @@
 {
-  "name": "Eyeverse #1194",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1194.gif",
-  "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1194.html",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Enlightened",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Blessed Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox X Halo Scope",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Kratos",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Super Double-dipped #51",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1194",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1194.gif",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1194.html",
+    "attributes": [
+        {
+                  "value": "Enlightened",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Paradox Blessed Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Paradox X Halo Scope",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Paradox Kratos",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Super Double-dipped #51",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye"
 }

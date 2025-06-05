@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/433.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Twin Short swords",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "The Watched",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Skull twin halo",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Scoped Fury Swipes",
       "trait_type": "Front"
     }

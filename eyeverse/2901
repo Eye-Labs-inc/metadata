@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2901.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Thorn Sword Throne",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Eye Princess",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Desert Traveller (L)",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Spartan Frozen Scoped",
       "trait_type": "Front"
     }

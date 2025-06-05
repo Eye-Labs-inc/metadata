@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #1947",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1947.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Dagger Master",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Thorn Skull watch",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Hell's Desert Cape",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #22",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1947",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1947.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Dagger Master",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Thorn Skull watch",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Hell's Desert Cape",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #22",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1947.html"
 }

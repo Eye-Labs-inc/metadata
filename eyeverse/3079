@@ -4,27 +4,22 @@
   "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3079.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Telepath Long swords",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Night Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Aristocratic Right",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Skull Turtle Impaler (L)",
       "trait_type": "Front"
     }

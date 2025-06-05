@@ -1,32 +1,33 @@
 {
-  "name": "Eyeverse #293",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/293.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Twin Mace",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Prince",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Twin Halo",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Fury Swipes",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #33",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #293",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/293.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Twin Mace",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Prince",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Twin Halo",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Fury Swipes",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #33",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/293.html"
 }

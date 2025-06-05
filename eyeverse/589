@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #589",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/589.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Short sword trio",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "The Devils Thorn bed",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Awakened Brace Rings",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #31",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #589",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/589.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Short sword trio",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "The Devils Thorn bed",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Awakened Brace Rings",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #31",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/589.html"
 }

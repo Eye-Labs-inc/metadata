@@ -1,37 +1,33 @@
 {
-  "name": "Eyeverse #1380",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1380.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Demon Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Helmet of Thorns",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Twin Skull Turtle Shell",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #3",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1380",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/1380.png",
+    "attributes": [
+        {
+                  "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Demon Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Helmet of Thorns",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Twin Skull Turtle Shell",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #3",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1380.html"
 }

@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #14",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/14.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Short sword trio",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Floating Thorns",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Skull Button Cape",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #14",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/14.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Short sword trio",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Floating Thorns",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Skull Button Cape",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/14.html"
 }

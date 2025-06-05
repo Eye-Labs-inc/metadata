@@ -1,32 +1,33 @@
 {
-  "name": "Eyeverse #122",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/122.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Twin Mace",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Day Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Skull Rising",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Shoulder Brace",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #24",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #122",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/cookies/122.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Twin Mace",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Day Watcher",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Skull Rising",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Shoulder Brace",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #24",
+            "trait_type": "Cookie"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/122.html"
 }

@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #1744",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1744.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "6 Horns",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Desert Traveller (R)",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Snake Tamer",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1744",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1744.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "6 Horns",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Desert Traveller (R)",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Snake Tamer",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1744.html"
 }

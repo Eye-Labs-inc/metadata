@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #2531",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2531.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Dagger Master",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Jailer's Halo",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Snake Hunter",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2531",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2531.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Dagger Master",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Jailer's Halo",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Snake Hunter",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2531.html"
 }

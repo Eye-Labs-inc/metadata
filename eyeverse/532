@@ -1,33 +1,29 @@
 {
-  "name": "Eyeverse #532",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/532.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Enlightened",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Scythe Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Eye Horizon",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Paradox Red Rising",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #532",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/532.gif",
+    "attributes": [
+        {
+                  "value": "Enlightened",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Paradox Scythe Wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Paradox Eye Horizon",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Paradox Red Rising",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/532.html"
 }

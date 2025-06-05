@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #2630",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2630.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Cracked Sickle",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Planetary Scope",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Devil's Master Impaler",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2630",
+    "description": null,
+    "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2630.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Cracked Sickle",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Planetary Scope",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Devil's Master Impaler",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2630.html"
 }
