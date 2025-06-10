@@ -1,0 +1,33 @@
+{
+    "name": "#232 Ghakkilr The Flame",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/1/232.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8408",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Watched"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Forged"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Duskborn"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Ember Veil"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Eye Lord"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Flame"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/1/232.html"
+}

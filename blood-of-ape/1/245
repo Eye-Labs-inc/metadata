@@ -1,0 +1,33 @@
+{
+    "name": "#245 Ebonbill Red Grell",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/1/245.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8421",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Watched"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Rootfur"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Ember Veil"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Red Grell"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/1/245.html"
+}
