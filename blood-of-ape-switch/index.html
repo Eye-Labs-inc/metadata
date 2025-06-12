@@ -10,12 +10,15 @@
         <button class="logo-button" onclick="toggleImage()">
             <img src="eye.gif" alt="Eyeverse Logo">
         </button>
-        <img id="image1" class="hidden" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/1/1.png" alt="Ape Kin">
-        <img id="image2" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/2/1.png" alt="Paradox Reflection">
+        <img id="image1" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/1/1.png" alt="Ape Kin">
+        <img id="image2" class="hidden" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/2/1.png" alt="Paradox Reflection">
         <div class="select-box">
             <select id="tokenSelect" onchange="updateImages()">
                 <!-- Options will be populated by JS -->
             </select>
+        </div>
+        <div id="loader" style="display:none; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); z-index:100;">
+            <img src="loader.gif" alt="Loading..." style="width:64px;height:64px;">
         </div>
     </div>
     <script>
@@ -28,11 +31,51 @@
         select.appendChild(option);
     }
 
-    // Update images when a new token is selected
+    function showLoader() {
+        document.getElementById('loader').style.display = 'block';
+    }
+    function hideLoader() {
+        document.getElementById('loader').style.display = 'none';
+    }
+
+    // Update images when a new token is selected, with loader
     function updateImages() {
         const n = select.value;
-        document.getElementById('image1').src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/1/${n}.png`;
-        document.getElementById('image2').src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/2/${n}.png`;
+        const img1 = document.getElementById('image1');
+        const img2 = document.getElementById('image2');
+        showLoader();
+        let loaded = 0;
+        function checkHide() {
+            loaded++;
+            if (loaded === 2) hideLoader();
+        }
+        img1.onload = checkHide;
+        img2.onload = checkHide;
+        img1.onerror = checkHide;
+        img2.onerror = checkHide;
+        img1.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/1/${n}.png`;
+        img2.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/2/${n}.png`;
+    }
+
+    // Enhanced toggleImage function to check if image exists before toggling, with loader
+    function toggleImage() {
+        const img1 = document.getElementById('image1');
+        const img2 = document.getElementById('image2');
+        const showImg1 = img1.classList.contains('hidden');
+        const targetImg = showImg1 ? img1 : img2;
+
+        showLoader();
+        const testImg = new Image();
+        testImg.onload = function() {
+            img1.classList.toggle('hidden');
+            img2.classList.toggle('hidden');
+            hideLoader();
+        };
+        testImg.onerror = function() {
+            hideLoader();
+            alert('Image does not exist or failed to load.');
+        };
+        testImg.src = targetImg.src;
     }
     </script>
     <script src="switch.js"></script>
