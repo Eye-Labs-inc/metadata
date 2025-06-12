@@ -1,0 +1,33 @@
+{
+    "name": "#288 Sonskog Darkturn",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/1/288.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8464",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Watched"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Earthhide"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Black Hole"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Darkturn"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/1/288.html"
+}
