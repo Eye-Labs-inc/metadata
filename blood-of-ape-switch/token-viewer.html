@@ -44,6 +44,9 @@
         h2, h3 {
             color: #fff;
         }
+        label[for="tokenId"] {
+            color: #fff;
+        }
         @media (max-width: 600px) {
             .container {
                 max-width: 98vw;
@@ -52,6 +55,9 @@
             }
             h2, h3 {
                 font-size: 1.2em;
+                color: #fff;
+            }
+            label[for="tokenId"] {
                 color: #fff;
             }
             input[type="number"], button {
@@ -71,14 +77,14 @@
     <div class="container">
         <h2>Paradox: Blood of Ape</h2>
         <h3 style="margin-top:0;">Evolutions</h3>
-        <label for="tokenId">Token ID:</label>
+        <label for="tokenId">#</label>
         <input type="number" id="tokenId" min="1" value="1">
         <button id="loadBtn">Load</button>
         <div>
             <img id="tokenImage" src="" alt="Token Image" class="hidden">
             <div id="errorMsg" class="hidden" style="color:red;margin-top:1em;"></div>
         </div>
-        <button id="nextBtn" class="hidden">Next Image</button>
+        <button id="nextBtn" class="hidden">Switch</button>
     </div>
     <script>
         // Image URL patterns
@@ -90,6 +96,7 @@
         ];
         let currentIndex = 0;
         let currentTokenId = 1;
+        let availableIndexes = [];
 
         const tokenIdInput = document.getElementById('tokenId');
         const loadBtn = document.getElementById('loadBtn');
@@ -104,36 +111,53 @@
             img.src = url;
         }
 
-        function showImage(index) {
-            const id = currentTokenId;
-            const url = imageUrls[index](id);
-            tokenImage.classList.add('hidden');
-            checkImageExists(url, exists => {
-                if (exists) {
-                    tokenImage.src = url;
-                    tokenImage.classList.remove('hidden');
-                    nextBtn.classList.remove('hidden');
-                } else {
-                    tokenImage.classList.add('hidden');
-                    nextBtn.classList.remove('hidden');
-                }
+        function findAvailableIndexes(tokenId, callback) {
+            let found = [];
+            let checked = 0;
+            imageUrls.forEach((fn, idx) => {
+                checkImageExists(fn(tokenId), exists => {
+                    if (exists) found.push(idx);
+                    checked++;
+                    if (checked === imageUrls.length) callback(found);
+                });
             });
+        }
+
+        function showImageByAvailableIndex(availIdx) {
+            if (availableIndexes.length === 0) {
+                tokenImage.classList.add('hidden');
+                nextBtn.classList.add('hidden');
+                return;
+            }
+            const idx = availableIndexes[availIdx];
+            const url = imageUrls[idx](currentTokenId);
+            tokenImage.src = url;
+            tokenImage.classList.remove('hidden');
+            nextBtn.classList.remove('hidden');
         }
 
         loadBtn.onclick = function() {
             currentTokenId = parseInt(tokenIdInput.value, 10) || 1;
-            currentIndex = 0;
-            showImage(currentIndex);
+            findAvailableIndexes(currentTokenId, found => {
+                availableIndexes = found;
+                currentIndex = 0;
+                showImageByAvailableIndex(currentIndex);
+            });
         };
 
         nextBtn.onclick = function() {
-            currentIndex = (currentIndex + 1) % imageUrls.length;
-            showImage(currentIndex);
+            if (availableIndexes.length === 0) return;
+            currentIndex = (currentIndex + 1) % availableIndexes.length;
+            showImageByAvailableIndex(currentIndex);
         };
 
         // Optionally, load default image on page load
         window.onload = () => {
-            showImage(0);
+            findAvailableIndexes(currentTokenId, found => {
+                availableIndexes = found;
+                currentIndex = 0;
+                showImageByAvailableIndex(currentIndex);
+            });
         };
     </script>
 </body>
