@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blood of Ape Switch</title>
+    <link id="styles" rel="stylesheet" type="text/css" href="blood-of-ape.css">
+</head>
+<body>
+    <div class="container">
+        <button class="logo-button" onclick="toggleImage()">
+            <img src="eye.gif" alt="Eyeverse Logo">
+        </button>
+        <img id="image1" class="hidden" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/1/1.png" alt="Ape Kin">
+        <img id="image2" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/2/1.png" alt="Paradox Reflection">
+        <div class="select-box">
+            <select id="tokenSelect" onchange="updateImages()">
+                <!-- Options will be populated by JS -->
+            </select>
+        </div>
+    </div>
+    <script>
+    // Populate the select dropdown with options 1-333
+    const select = document.getElementById('tokenSelect');
+    for (let i = 1; i <= 333; i++) {
+        const option = document.createElement('option');
+        option.value = i;
+        option.textContent = i;
+        select.appendChild(option);
+    }
+
+    // Update images when a new token is selected
+    function updateImages() {
+        const n = select.value;
+        document.getElementById('image1').src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/1/${n}.png`;
+        document.getElementById('image2').src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/2/${n}.png`;
+    }
+    </script>
+    <script src="switch.js"></script>
+    <style>
+    .select-box {
+        position: absolute;
+        z-index: 20;
+        top: 10px;
+        right: 10px;
+        background: #1b1b1b;
+        border: 1px solid #00624a;
+        border-radius: 5%;
+        padding: 1.5%;
+        box-sizing: border-box;
+    }
+    </style>
+</body>
+</html>
