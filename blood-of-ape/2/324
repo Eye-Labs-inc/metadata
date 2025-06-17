@@ -1,0 +1,33 @@
+{
+    "name": "#324 Sthaeshi The Bloody",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/3/324.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8500",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Snarl"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Rootfur"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Arboreal Throne"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Bloody"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/2/324.html"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "#72 Gihursag Broken Blood",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/3/72.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8248",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Still"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Forged"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Emerald Bloom"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest Pathway"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Eye Lord"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Broken Blood"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/2/72.html"
+}

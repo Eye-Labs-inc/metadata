@@ -12,6 +12,7 @@
         </button>
         <img id="image1" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/1/1.png" alt="Ape Kin">
         <img id="image2" class="hidden" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/2/1.png" alt="Paradox Reflection">
+        <img id="image3" class="hidden" src="https://eyeverse.s3.amazonaws.com/blood-of-ape/3/1.png" alt="Evolved Ape">
         <div class="select-box">
             <select id="tokenSelect" onchange="updateImages()">
                 <!-- Options will be populated by JS -->
@@ -43,32 +44,39 @@
         const n = select.value;
         const img1 = document.getElementById('image1');
         const img2 = document.getElementById('image2');
+        const img3 = document.getElementById('image3');
         showLoader();
         let loaded = 0;
         function checkHide() {
             loaded++;
-            if (loaded === 2) hideLoader();
+            if (loaded === 3) hideLoader();
         }
         img1.onload = checkHide;
         img2.onload = checkHide;
+        img3.onload = checkHide;
         img1.onerror = checkHide;
         img2.onerror = checkHide;
+        img3.onerror = checkHide;
         img1.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/1/${n}.png`;
         img2.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/2/${n}.png`;
+        img3.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/3/${n}.png`;
     }
 
     // Enhanced toggleImage function to check if image exists before toggling, with loader
     function toggleImage() {
         const img1 = document.getElementById('image1');
         const img2 = document.getElementById('image2');
-        const showImg1 = img1.classList.contains('hidden');
-        const targetImg = showImg1 ? img1 : img2;
+        const img3 = document.getElementById('image3');
+        const imgs = [img1, img2, img3];
+        const current = imgs.findIndex(img => !img.classList.contains('hidden'));
+        const next = (current + 1) % imgs.length;
+        const targetImg = imgs[next];
 
         showLoader();
         const testImg = new Image();
         testImg.onload = function() {
-            img1.classList.toggle('hidden');
-            img2.classList.toggle('hidden');
+            imgs.forEach(img => img.classList.add('hidden'));
+            targetImg.classList.remove('hidden');
             hideLoader();
         };
         testImg.onerror = function() {

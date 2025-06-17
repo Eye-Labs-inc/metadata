@@ -4,6 +4,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: #1b1b1b;
+    color: #fff;
 }
 .container {
     margin: 0 auto;
@@ -39,4 +40,98 @@ body {
 }
 .hidden {
     display: none;
+}
+.select-box {
+    position: absolute;
+    z-index: 20;
+    top: 10px;
+    right: 10px;
+    background: #1b1b1b;
+    border: 1px solid #00624a;
+    border-radius: 5%;
+    padding: 1.5%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    min-width: 220px;
+    gap: 6px;
+}
+.token-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 18px;
+    gap: 10px; /* ensures space between label and select */
+}
+.token-label {
+    color: #fff;
+    font-size: 0.98em;
+    margin-right: 10px; /* ensures padding between label and select */
+}
+.wallet-info {
+    color: #fff;
+    font-size: 0.97em;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    opacity: 0.9;
+    text-align: left;
+    width: 100%;
+    word-break: break-all;
+}
+.connection-msg {
+    color: #fff;
+    font-size: 0.95em;
+    max-width: 180px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    margin-top: 2px;
+    opacity: 0.85;
+    text-align: right;
+}
+#loader {
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 100;
+    background: transparent;
+}
+.loader-img {
+    width: 36px;
+    height: 36px;
+}
+.info-box {
+    position: absolute;
+    z-index: 20;
+    top: 70px; /* below the logo-button */
+    left: 10px;
+    background: #1b1b1b;
+    border: 1px solid #00624a;
+    border-radius: 5%;
+    padding: 1.5%;
+    box-sizing: border-box;
+    min-width: 220px;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    /* Add margin-top to push below logo-button if needed */
+    margin-top: 60px;
+}
+.nft-info {
+    color: #fff;
+    opacity: 0.85;
+    font-size: 0.95em;
+    text-align: left;
+    word-break: break-word;
+    margin: 0;
+    padding: 0;
+}
+#metadataBox.nft-info {
+    font-size: 0.9em;
 }
