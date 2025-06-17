@@ -1,0 +1,33 @@
+{
+    "name": "#191 Meinosthis The Pale",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/3/191.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8367",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Shut Eye"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Crimson Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Duskborn"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red King's Kill"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Pale"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/2/191.html"
+}

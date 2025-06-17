@@ -1,0 +1,33 @@
+{
+    "name": "#323 Thokosh The Red",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/3/323.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8499",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Blank"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Forged"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Obsidian"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Hidden Cave"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Eye Lord"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Red"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/2/323.html"
+}

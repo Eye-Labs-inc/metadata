@@ -1,0 +1,33 @@
+{
+    "name": "#16 Baurash VeinBorn",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/3/16.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8192",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Shut Eye"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Earthhide"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Inside Snake Alley"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "VeinBorn"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/2/16.html"
+}

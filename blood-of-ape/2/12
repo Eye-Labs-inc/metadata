@@ -1,0 +1,33 @@
+{
+    "name": "#12 Asheye Broken Blood",
+    "image": "https://eyeverse.s3.amazonaws.com/blood-of-ape/3/12.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8188",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Shut Eye"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Ornate"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Crimson Oath"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Arboreal Throne"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Eye Lord"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Broken Blood"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/2/12.html"
+}
