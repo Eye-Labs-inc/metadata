@@ -39,7 +39,7 @@ img {
     height: auto;
     transition: opacity 0.4s ease;
     position: absolute;
-    top: 50px;
+    top: 0px;
     left: 0;
     opacity: 1;
     pointer-events: auto;
