@@ -21,9 +21,10 @@ body {
     height: auto;
     max-width: 100vw;
     max-height: 100vh;
-    display: flex;
+    /* Remove flex properties to avoid centering absolutely positioned children */
+    /* display: flex;
     flex-direction: column;
-    justify-content: flex-end;  /* push select-box to bottom */
+    justify-content: flex-end; */
 }
 .container img {
     max-width: 100vw;
@@ -49,7 +50,7 @@ body {
 }
 .logo-button img {
     width: 10vw;
-    max-width: 100px;
+    max-width: 64px;
     height: auto;
     display: block;
     border-radius: 5%;
