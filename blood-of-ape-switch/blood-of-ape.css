@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+
 body {
     margin: 0;
     overflow: hidden;
@@ -5,144 +7,129 @@ body {
     text-align: center;
     background-color: #000;
     color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Marcellus', serif;
 }
 .container {
     position: relative;
-    width: 100%;
-    max-width: 800px;
+    display: inline-block;
     margin: 0 auto;
-    /* If you want to keep centering, add: */
-    /* display: flex; justify-content: center; align-items: center; height: 100vh; */
+    width: auto;
+    height: auto;
+    max-width: 100vw;
+    max-height: 100vh;
 }
 .container img {
     max-width: 100vw;
     max-height: 100vh;
-    width: auto;
-    height: auto;
+    width: auto !important;
+    height: auto !important;
     object-fit: contain;
+    display: block;
+    position: relative !important;
+    margin: 0;
 }
 .logo-button {
     position: absolute;
     top: 10px;
     left: 10px;
     z-index: 30;
-    background: none;
-    border: none;
+    background: #1b1b1b;
+    border: 1px solid #00624a !important;
+    border-radius: 5% !important;
     cursor: pointer;
+    padding: 0;
+    box-sizing: border-box;
 }
 .logo-button img {
     width: 10vw;
+    max-width: 100px;
     height: auto;
+    display: block;
+    border-radius: 5%;
 }
-img {
-    max-width: 100%;
-    height: auto;
-    transition: opacity 0.4s ease;
+#image1, #image2, #image3 {
     position: absolute;
-    top: 50px;
+    top: 0;
     left: 0;
+    width: 100%;
+    height: auto;
+    max-width: 100vw;
+    max-height: 100vh;
+    object-fit: contain;
+    display: block;
+    transition: opacity 0.4s ease;
     opacity: 1;
     pointer-events: auto;
-    z-index: 1;
-}
-.hidden {
-    opacity: 0;
-    pointer-events: none;
 }
 .select-box {
     position: absolute;
-    z-index: 20;
     top: 10px;
     right: 10px;
+    z-index: 30;
     background: #1b1b1b;
     border: 1px solid #00624a;
     border-radius: 5%;
-    padding: 1.5%;
+    padding: 0.5em;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; /* right-align all children */
+    min-width: 160px;
+    max-width: 300px;
+    font-family: 'Marcellus', serif;
 }
-.token-row {
+.select-row {
+    margin-bottom: 8px;
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-top: 18px;
-    gap: 10px; /* ensures space between label and select */
+    width: auto;      /* shrink to fit content */
+    gap: 8px;
+    justify-content: flex-end; /* right-align row contents */
 }
 .token-label {
     color: #fff;
-    font-size: 0.98em;
-    margin-right: 10px; /* ensures padding between label and select */
-}
-.wallet-info {
-    color: #fff;
-    font-size: 0.97em;
-    margin-top: 8px;
-    margin-bottom: 12px;
-    opacity: 0.9;
-    text-align: left;
-    width: 100%;
-    word-break: break-all;
-}
-.connection-msg {
-    color: #fff;
-    font-size: 0.95em;
-    max-width: 180px;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    font-size: 1em;
+    margin-right: 0;
+    margin-bottom: 0;
     white-space: nowrap;
-    display: block;
-    margin-top: 2px;
-    opacity: 0.85;
-    text-align: right;
+    font-family: 'Marcellus', serif;
 }
 #loader {
     display: none;
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     z-index: 100;
     background: transparent;
+    width: auto;
+    height: auto;
+    pointer-events: none;
 }
 .loader-img {
-    width: 36px;
-    height: 36px;
-}
-.info-box {
-    position: absolute;
-    z-index: 20;
-    top: 70px; /* below the logo-button */
-    left: 10px;
-    background: #1b1b1b;
-    border: 1px solid #00624a;
-    border-radius: 5%;
-    padding: 1.5%;
-    box-sizing: border-box;
-    min-width: 220px;
-    max-width: 320px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 6px;
-    /* Add margin-top to push below logo-button if needed */
-    margin-top: 60px;
-}
-.nft-info {
-    color: #fff;
-    opacity: 0.85;
-    font-size: 0.95em;
-    text-align: left;
-    word-break: break-word;
-    margin: 0;
-    padding: 0;
-}
-#metadataBox.nft-info {
-    font-size: 0.9em;
+    width: 10vw;
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+    max-width: 100px;
+    max-height: 100px;
 }
 .image-alt-label {
-    margin-top: 8px;
     color: #fff;
     font-size: 1em;
     text-align: right;
+    width: 100%;
     opacity: 0.85;
     min-height: 1.2em;
+    position: static;
+    right: auto;
+    top: auto;
+    font-family: 'Marcellus', serif;
 }
