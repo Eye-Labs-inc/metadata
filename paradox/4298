@@ -5,10 +5,10 @@
   "attributes": [
     {
       "value": "Lightning",
-      "trait_type": "AFFINITY"
+      "trait_type": "Affinity"
     },
     {
-      "value": "Kors Sky death",
+      "value": "Kors Sky Death",
       "trait_type": "Character"
     }
   ],
