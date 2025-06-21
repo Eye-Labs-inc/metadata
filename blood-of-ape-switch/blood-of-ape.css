@@ -111,15 +111,15 @@ body {
     height: auto;
     pointer-events: none;
 }
+#loader img,
 .loader-img {
-    width: 10vw;
-    max-width: 100px;
+    width: auto;
+    max-width: 64px;
     height: auto;
     display: block;
     margin: 0 auto;
     object-fit: contain;
-    max-width: 100px;
-    max-height: 100px;
+    max-height: 64px;
 }
 .image-alt-label {
     margin-top: 0;
