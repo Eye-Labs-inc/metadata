@@ -97,9 +97,9 @@ if (select) {
         img1.onerror = checkHide;
         img2.onerror = checkHide;
         img3.onerror = checkHide;
-        img1.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/1/${n}.png`;
-        img2.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/2/${n}.png`;
-        img3.src = `https://eyeverse.s3.amazonaws.com/blood-of-ape/3/${n}.png`;
+        img1.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/1/${n}.png`;
+        img2.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/2/${n}.png`;
+        img3.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/3/${n}.png`;
 
         // Show only the first image after update
         img1.style.display = 'block';
