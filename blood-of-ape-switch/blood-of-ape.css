@@ -113,13 +113,12 @@ body {
 }
 #loader img,
 .loader-img {
-    width: 10vw;
+    width: auto;
     max-width: 64px;
     height: auto;
     display: block;
     margin: 0 auto;
     object-fit: contain;
-    max-width: 64px;
     max-height: 64px;
 }
 .image-alt-label {
