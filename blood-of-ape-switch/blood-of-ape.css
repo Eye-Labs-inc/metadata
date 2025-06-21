@@ -69,9 +69,10 @@ body {
     pointer-events: auto;
 }
 .select-box {
-    position: absolute;         /* overlay the image */
-    bottom: 10px;               /* same margin as logo-button but at bottom */
-    left: 10px;                 /* align left like logo-button */
+    position: absolute;
+    bottom: 10px;
+    left: 10px;                 /* move to bottom left */
+    right: auto;                /* unset right */
     z-index: 30;
     background: #1b1b1b;
     border: 1px solid #00624a;
@@ -88,15 +89,6 @@ body {
 }
 .token-select {
     margin-right: 8px;
-}
-.select-row {
-    margin-bottom: 0;           /* remove margin since everything is in a row */
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    width: auto;      /* shrink to fit content */
-    gap: 8px;
-    justify-content: flex-start;
 }
 .token-label {
     color: #fff;
