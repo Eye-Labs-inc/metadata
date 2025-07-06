@@ -1,0 +1,45 @@
+{
+    "name": "#28 Haggrolzas The Bloody",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/28.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8204",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Mischievous"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Duskborn"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Arboreal Throne"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Seer Band"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blood Spartan"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Dual Slashers"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Bloody"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/28.html"
+}

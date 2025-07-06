@@ -1,0 +1,45 @@
+{
+    "name": "#99 Ziskei Sky Death",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/99.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8275",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Shut Eye"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Crimson Forged"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Obsidian"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Snake Alley Falls"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Enemy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tribal Alchemyst"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Eye Lord"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Mantle Staff (r)"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Sky Death"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/99.html"
+}

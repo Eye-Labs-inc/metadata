@@ -1,0 +1,45 @@
+{
+    "name": "#54 Ierndaro The Grizzeled",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/54.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8230",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Iron Gaze"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Forged"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Duskborn"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Snake Alley"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Flying Red Goat"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Alchemy Cape"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Eye Lord"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Paladin Staff"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Grizzeled"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/54.html"
+}

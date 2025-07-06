@@ -1,0 +1,45 @@
+{
+    "name": "#309 Sgalfrond Pale Blood",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/309.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8485",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Shut Eye"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Emerald Bloom"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Snake Alley"
+        },
+        {
+            "trait_type": "Head",
+            "value": "I Killed A Demon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Alchemy Cape"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Sky Splitter Berserker"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Pale Blood"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/309.html"
+}
