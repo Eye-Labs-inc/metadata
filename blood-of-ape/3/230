@@ -1,0 +1,45 @@
+{
+    "name": "#230 Bugdurash The Deadly",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/230.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8406",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Spitefang"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Emerald Bloom"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Hidden Cave"
+        },
+        {
+            "trait_type": "Head",
+            "value": "I Killed A Demon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kratos (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Mantle Staff (l)"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Deadly"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/230.html"
+}

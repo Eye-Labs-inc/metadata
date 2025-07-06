@@ -1,0 +1,45 @@
+{
+    "name": "#6 Tyaumdinwadr Red Skin",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/6.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8182",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Iron Gaze"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Rootfur"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Hidden Cave"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Iron Soldier"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blood Shoulder Brace (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Dual Slashers"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Red Skin"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/6.html"
+}

@@ -19,6 +19,8 @@ function updateAltLabel() {
         if (images[i].style.display !== 'none') {
             if (i === 2) {
                 alt = 'Second Evolution: ' + images[i].alt;
+            } else if (i === 3) {
+                alt = 'Third Evolution: ' + images[i].alt;
             } else {
                 alt = 'First Evolution: ' + images[i].alt;
             }
@@ -31,9 +33,14 @@ function updateAltLabel() {
 
 // Show the third image (Evolved Ape) first and update the alt label
 function showInitialImage() {
-    if (images.length >= 3) {
+    if (images.length >= 4) {
         images.forEach(img => img.style.display = 'none');
-        images[2].style.display = 'block';
+        images[3].style.display = 'block'; // Warrior Ape
+        currentImageIndex = 3;
+        updateAltLabel();
+    } else if (images.length >= 3) {
+        images.forEach(img => img.style.display = 'none');
+        images[2].style.display = 'block'; // Evolved Ape
         currentImageIndex = 2;
         updateAltLabel();
     } else if (images.length > 0) {
@@ -82,11 +89,12 @@ if (select) {
         const img1 = document.getElementById('image1');
         const img2 = document.getElementById('image2');
         const img3 = document.getElementById('image3');
+        const img4 = document.getElementById('image4');
         showLoader();
         let loaded = 0;
         function checkHide() {
             loaded++;
-            if (loaded === 3) {
+            if ((img4 ? loaded === 4 : loaded === 3)) {
                 hideLoader();
                 updateAltLabel();
             }
@@ -94,18 +102,33 @@ if (select) {
         img1.onload = checkHide;
         img2.onload = checkHide;
         img3.onload = checkHide;
+        if (img4) img4.onload = checkHide;
         img1.onerror = checkHide;
         img2.onerror = checkHide;
         img3.onerror = checkHide;
+        if (img4) img4.onerror = checkHide;
         img1.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/1/${n}.png`;
         img2.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/2/${n}.png`;
         img3.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/3/${n}.png`;
+        if (img4) img4.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/${n}.png`;
 
-        // Show only the first image after update
-        img1.style.display = 'block';
-        img2.style.display = 'none';
-        img3.style.display = 'none';
-        currentImageIndex = 0;
+        // Show Warrior Ape first if present, else Evolved Ape, else first image
+        if (img4) {
+            img1.style.display = 'none';
+            img2.style.display = 'none';
+            img3.style.display = 'none';
+            img4.style.display = 'block';
+            currentImageIndex = 3;
+        } else if (img3) {
+            img1.style.display = 'none';
+            img2.style.display = 'none';
+            img3.style.display = 'block';
+            currentImageIndex = 2;
+        } else {
+            img1.style.display = 'block';
+            if (img2) img2.style.display = 'none';
+            currentImageIndex = 0;
+        }
         updateAltLabel();
     }
 

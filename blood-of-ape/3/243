@@ -1,0 +1,45 @@
+{
+    "name": "#243 Wrueth RedSky",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/243.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8419",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Iron Gaze"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Crimson Oath"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest Pathway"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Flying Red Goat"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kratos (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Dual Slashers"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "RedSky"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/243.html"
+}

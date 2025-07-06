@@ -1,0 +1,45 @@
+{
+    "name": "#146 Hilgrian The Flame",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/146.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8322",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Iron Gaze"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Rootfur"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Inside Snake Alley"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Iron Soldier"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Royal Chimera"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Head Staff"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Flame"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/146.html"
+}

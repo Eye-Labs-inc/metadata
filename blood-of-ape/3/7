@@ -1,0 +1,45 @@
+{
+    "name": "#7 Komkuc Pale Blood",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/7.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8183",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Blank"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Duskborn"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Arboreal Throne"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bloody Demon Enemy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Crazy Gatekeeper"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Dark Demon Sword"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Pale Blood"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/7.html"
+}

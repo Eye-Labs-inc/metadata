@@ -1,0 +1,45 @@
+{
+    "name": "#214 Rauflaedrog Bleedworth",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/214.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8390",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Spitefang"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Crimson Oath"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Snake Alley"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blood Enlightenment"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kratos Twins"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Bloody Sorcerer"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Bleedworth"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/214.html"
+}

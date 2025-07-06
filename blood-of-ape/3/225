@@ -1,0 +1,45 @@
+{
+    "name": "#225 Blackmantle DeathStrum",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/225.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8401",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Spitefang"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Obsidian Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Duskborn"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Snake Alley"
+        },
+        {
+            "trait_type": "Head",
+            "value": "I Killed A Demon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kratos (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Paladinhead Twin Staffs"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "DeathStrum"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/3/225.html"
+}
