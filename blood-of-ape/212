@@ -1,0 +1,45 @@
+{
+    "name": "#212 Stif The Red",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/212.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8388",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Wraithskin Shut Eye"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Crimson Watchers Brand"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Crimson Oath"
+        },
+        {
+            "trait_type": "Background",
+            "value": "The Eye of Malice"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Goat Demon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Alchemy Cape"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Night Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Paladin Staff"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Red"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/212.html"
+}
