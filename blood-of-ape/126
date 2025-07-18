@@ -1,0 +1,45 @@
+{
+    "name": "#126 Gabrer The Deadly",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/126.png",
+    "description": "Gabrer the Deadly was once a builder of peace beneath emerald skies - a towering leader who shaped homes with his hands and settled disputes with his voice. But when a rift tore through reality, casting the Ape Kin into the crimson wilds of the Land of Red, Gabrer was forced to become something else. To protect his people, he crushed a tyrant in ritual combat - and inherited his name. Now, as Blood of Ape and a member of the feared Blood 10, Gabrer commands with strength sharpened by sorrow, wisdom forged in exile, and a will that never forgot the world they lost. Behind the fury burns the memory of who he was - and the hope of who his kin might become.\nBrace.\n\nParadox #8302\nEvolved from Glasgrind The Deadly",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Still"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Stormhide"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Horizon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Alchemist Band"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blood Shoulder Brace (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Gabrer The Deadly"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Hand of Ruin"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Deadly"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/126.html"
+}

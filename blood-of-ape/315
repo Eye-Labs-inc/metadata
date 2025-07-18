@@ -1,0 +1,45 @@
+{
+    "name": "#315 Thokosh Dreadfoot",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/315.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8491",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Still"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Crimson Oath"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red King's Kill"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Sinful Flaming Demon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Royal Chimera"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Caliburn"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Dreadfoot"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/315.html"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "#141 Yazgash Broken Blood",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/141.png",
+    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8317",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Watched"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Ashkin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "The Eye of Malice"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Flying Red Goat"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blood Shoulder Brace (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Day Watcher"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Red Stone Staff"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Broken Blood"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/141.html"
+}

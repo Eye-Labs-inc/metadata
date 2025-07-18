@@ -1,0 +1,49 @@
+{
+    "name": "#292 Sabra The Deadly",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/292.png",
+    "description": "Sabra, The Living Archive, is the Ape Kin's guardian of ancient memory and wisdom. Before exile, she mastered the secrets woven into the great Archive Arbor, memorizing histories, rituals, and coded knowledge. As leader of the Prime Division, Sabra blends scholarly insight with martial skill, teaching warriors to fight with mind and spirit, balancing ancient combat techniques with meditation and breath control. She guides her kin through physical and spiritual transformation, helping them embrace their new forms without losing their roots. Now back in their reclaimed homeland, Sabra leads efforts to preserve and expand their heritage - a living bridge between past and future in the Blood of Ape saga. \nBrace.\n\nParadox #8468\nEvolved from Yazgash The Red",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Ashborn Spitefang"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Rootfur"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest Pathway"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blood Light"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Shoulder Brace (r)"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Sabra The Deadly"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "Trisage of the Archive"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "The Red"
+        },
+        {
+            "trait_type": "Division",
+            "value": "Prime"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/292.html"
+}

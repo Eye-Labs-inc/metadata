@@ -1,0 +1,49 @@
+{
+    "name": "#36 Kranix The Deadly",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/36.png",
+    "description": "Kranix the Deadly, known as The Tempered Fury, was once a master carpenter in the emerald treetops - his massive hands famed for creation, not destruction. But when the Ape Kin were cast into the Land of Red, a hidden rage awakened within him. Forging the Fury Division, Kranix taught his warriors to wield their fury like a craftsman's blade - measured, purposeful and precise. His philosophy balanced creation with combat, instilling discipline through acts of building before battle. Feared for his power, respected for his restraint, Kranix stands as a symbol of duality - raging warrior, devoted maker - forever shaping the Blood of Ape legacy.\nBrace.\n\nParadox #8212\nEvolved from Grazoks Dreadfoot",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Snarl"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Stormhide"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red King's Kill"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dark Thorn Halo (r)"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Nomad Breast"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Kranix The Deadly"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "The Ember Edge"
+        },
+        {
+            "trait_type": "Paradox Tribe",
+            "value": "Dreadfoot"
+        },
+        {
+            "trait_type": "Division",
+            "value": "Fury"
+        }
+    ],
+    "external_url": "https://eyeverse.world/bloodofape",
+    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/36.html"
+}
