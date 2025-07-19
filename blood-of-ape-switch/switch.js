@@ -109,87 +109,116 @@ if (select) {
         // Show loader
         showLoader();
 
-        // If special token, ensure image5 exists, else remove/hide it
-        if (specialTokens.includes(n)) {
-            if (!img5) {
-                img5 = document.createElement('img');
-                img5.id = 'image5';
-                img5.alt = '1/1';
-                img5.style.display = 'none';
-                img5.style.position = 'absolute';
-                img5.style.top = '0';
-                img5.style.left = '0';
-                img5.style.width = '100%';
-                img5.style.height = 'auto';
-                img5.style.maxWidth = '100vw';
-                img5.style.maxHeight = '100vh';
-                img5.style.objectFit = 'contain';
-                img5.style.display = 'none';
-                img5.style.transition = 'opacity 0.4s ease';
-                img5.style.opacity = '1';
-                img5.style.pointerEvents = 'auto';
-                img5.src = '';
-                img5.onload = null;
-                img5.onerror = null;
-                img4.parentNode.appendChild(img5);
-            }
-            img5.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/${n}.png`;
-            img5.alt = '1/1';
-            img5.style.display = 'none';
-        } else if (img5) {
-            img5.parentNode.removeChild(img5);
-        }
-
-        // Set sources for all images
-        img1.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/1/${n}.png`;
-        img2.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/2/${n}.png`;
-        img3.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/3/${n}.png`;
-        img4.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/${n}.png`;
-        if (img5) img5.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/${n}.png`;
-
-        // Wait for all images to load
-        let expected = specialTokens.includes(n) ? 5 : 4;
-        let loaded = 0;
-        function checkHide() {
-            loaded++;
-            if (loaded === expected) {
-                hideLoader();
-                collectImages();
-                // Show correct initial image
-                if (specialTokens.includes(n) && img5) {
-                    images.forEach(img => img.style.display = 'none');
-                    img5.style.display = 'block';
-                    currentImageIndex = 4;
-                } else if (img4) {
-                    images.forEach(img => img.style.display = 'none');
-                    img4.style.display = 'block';
-                    currentImageIndex = 3;
-                } else if (img3) {
-                    images.forEach(img => img.style.display = 'none');
-                    img3.style.display = 'block';
-                    currentImageIndex = 2;
-                } else {
-                    images.forEach((img, idx) => {
-                        img.style.display = idx === 0 ? 'block' : 'none';
-                    });
-                    currentImageIndex = 0;
+        // Fetch character name from local metadata file
+        fetch(`../blood-of-ape/${n}`)
+            .then(response => response.json())
+            .then(data => {
+                let characterName = '';
+                if (data && data.attributes) {
+                    const charAttr = data.attributes.find(attr => attr.trait_type === 'Character');
+                    if (charAttr) characterName = charAttr.value;
                 }
-                updateAltLabel();
-            }
-        }
-        img1.onload = checkHide;
-        img2.onload = checkHide;
-        img3.onload = checkHide;
-        img4.onload = checkHide;
-        img1.onerror = checkHide;
-        img2.onerror = checkHide;
-        img3.onerror = checkHide;
-        img4.onerror = checkHide;
-        if (img5) {
-            img5.onload = checkHide;
-            img5.onerror = checkHide;
-        }
-    }
+                if (!characterName && data && data.name) {
+                    // Fallback: try to extract from name field
+                    characterName = data.name.replace(/^#\d+\s*/, '');
+                }
+
+                // Set alt attributes for images 1-4 to their respective evolution names
+                img1.alt = 'Ape Kin';
+                img2.alt = 'Paradox Reflection';
+                img3.alt = 'Evolved Ape';
+                img4.alt = 'Warrior Ape';
+
+                // If special token, ensure image5 exists, else remove/hide it
+                if (specialTokens.includes(n)) {
+                    if (!img5) {
+                        img5 = document.createElement('img');
+                        img5.id = 'image5';
+                        img5.style.display = 'none';
+                        img5.style.position = 'absolute';
+                        img5.style.top = '0';
+                        img5.style.left = '0';
+                        img5.style.width = '100%';
+                        img5.style.height = 'auto';
+                        img5.style.maxWidth = '100vw';
+                        img5.style.maxHeight = '100vh';
+                        img5.style.objectFit = 'contain';
+                        img5.style.display = 'none';
+                        img5.style.transition = 'opacity 0.4s ease';
+                        img5.style.opacity = '1';
+                        img5.style.pointerEvents = 'auto';
+                        img5.src = '';
+                        img5.onload = null;
+                        img5.onerror = null;
+                        img4.parentNode.appendChild(img5);
+                    }
+                    // Set alt for image5 to character name
+                    img5.alt = characterName;
+                    img5.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/${n}.png`;
+                    img5.style.display = 'none';
+                } else if (img5) {
+                    img5.parentNode.removeChild(img5);
+                }
+
+                // Set sources for all images
+                img1.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/1/${n}.png`;
+                img2.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/2/${n}.png`;
+                img3.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/3/${n}.png`;
+                img4.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/${n}.png`;
+                if (img5) img5.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/${n}.png`;
+
+                // Wait for all images to load
+                let expected = specialTokens.includes(n) ? 5 : 4;
+                let loaded = 0;
+                function checkHide() {
+                    loaded++;
+                    if (loaded === expected) {
+                        hideLoader();
+                        collectImages();
+                        // Show correct initial image
+                        if (specialTokens.includes(n) && img5) {
+                            images.forEach(img => img.style.display = 'none');
+                            img5.style.display = 'block';
+                            currentImageIndex = 4;
+                        } else if (img4) {
+                            images.forEach(img => img.style.display = 'none');
+                            img4.style.display = 'block';
+                            currentImageIndex = 3;
+                        } else if (img3) {
+                            images.forEach(img => img.style.display = 'none');
+                            img3.style.display = 'block';
+                            currentImageIndex = 2;
+                        } else {
+                            images.forEach((img, idx) => {
+                                img.style.display = idx === 0 ? 'block' : 'none';
+                            });
+                            currentImageIndex = 0;
+                        }
+                        updateAltLabel();
+                    }
+                }
+                img1.onload = checkHide;
+                img2.onload = checkHide;
+                img3.onload = checkHide;
+                img4.onload = checkHide;
+                img1.onerror = checkHide;
+                img2.onerror = checkHide;
+                img3.onerror = checkHide;
+                img4.onerror = checkHide;
+                if (img5) {
+                    img5.onload = checkHide;
+                    img5.onerror = checkHide;
+                }
+            })
+            .catch(() => {
+                // Fallback: set alt to empty if fetch fails
+                img1.alt = '';
+                img2.alt = '';
+                img3.alt = '';
+                img4.alt = '';
+                if (img5) img5.alt = '';
+            });
 
     select.addEventListener('change', updateImages);
+}
 }
