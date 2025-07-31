@@ -38,6 +38,10 @@
         {
             "trait_type": "Paradox Tribe",
             "value": "The Deadly"
+        },
+        {
+            "trait_type": "Affinity",
+            "value": "Blood of Ape"
         }
     ],
     "external_url": "https://eyeverse.world/bloodofape",
