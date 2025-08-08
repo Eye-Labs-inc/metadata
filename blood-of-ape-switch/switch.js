@@ -2,6 +2,8 @@
 
 // List of special 1/1 token numbers that get a 5th image
 const specialTokens = [36, 126, 269, 292, 307];
+// List of tokens that get a 5th image with 'Golden Revelation' alt
+const goldenTokens = [4, 18, 27, 44, 54, 66, 78, 87, 89, 98, 109, 115, 131, 134, 135, 147, 150, 155, 165, 172, 176, 181, 182, 188, 199, 204, 220, 225, 238, 253, 270, 280, 282];
 
 let currentImageIndex = 0;
 let images = [];
@@ -12,7 +14,7 @@ function collectImages() {
     for (let i = 1; i <= 5; i++) {
         const img = document.getElementById(`image${i}`);
         if (img && img.src) {
-            img.style.display = 'none';
+            // Do not set display here
             images.push(img);
         }
     }
@@ -23,12 +25,18 @@ function updateAltLabel() {
     let alt = '';
     for (let i = 0; i < images.length; i++) {
         if (images[i].style.display !== 'none') {
-            if (i === 3) {
+            if (i === 4) {
+                // Fifth image: check if golden or special
+                const n = Number(document.getElementById('tokenSelect')?.value);
+                if (goldenTokens.includes(n)) {
+                    alt = 'Blessing: ' + images[i].alt;
+                } else {
+                    alt = '1/1: ' + images[i].alt;
+                }
+            } else if (i === 3) {
                 alt = 'Third Evolution: ' + images[i].alt;
             } else if (i === 2) {
                 alt = 'Second Evolution: ' + images[i].alt;
-            } else if (i === 4) {
-                alt = '1/1: ' + images[i].alt;
             } else {
                 alt = 'First Evolution: ' + images[i].alt;
             }
@@ -42,25 +50,38 @@ function updateAltLabel() {
 // Show the correct initial image (prefer 5th, then 4th, then 3rd, etc.)
 function showInitialImage() {
     collectImages();
-    if (images.length >= 5 && images[4].src && images[4].src !== '') {
-        images.forEach(img => img.style.display = 'none');
-        images[4].style.display = 'block'; // 1/1
+    // Hide all images first
+    images.forEach(img => img.style.display = 'none');
+    // Get token number from select or fallback to image src
+    let n;
+    const selectElem = document.getElementById('tokenSelect');
+    if (selectElem) {
+        n = Number(selectElem.value);
+    } else if (images[0] && images[0].src) {
+        // Try to extract token number from image1 src
+        const match = images[0].src.match(/\/(\d+)\.png$/);
+        if (match) n = Number(match[1]);
+    }
+    // Fifth image logic: show if special or golden
+    if (
+        images.length >= 5 &&
+        images[4].src &&
+        images[4].src !== '' &&
+        (specialTokens.includes(n) || goldenTokens.includes(n))
+    ) {
+        images[4].style.display = 'block'; // Only img5
         currentImageIndex = 4;
         updateAltLabel();
     } else if (images.length >= 4) {
-        images.forEach(img => img.style.display = 'none');
-        images[3].style.display = 'block'; // Warrior Ape
+        images[3].style.display = 'block'; // Only img4
         currentImageIndex = 3;
         updateAltLabel();
     } else if (images.length >= 3) {
-        images.forEach(img => img.style.display = 'none');
-        images[2].style.display = 'block'; // Evolved Ape
+        images[2].style.display = 'block'; // Only img3
         currentImageIndex = 2;
         updateAltLabel();
     } else if (images.length > 0) {
-        images.forEach((img, idx) => {
-            img.style.display = idx === 0 ? 'block' : 'none';
-        });
+        images[0].style.display = 'block'; // Only img1
         currentImageIndex = 0;
         updateAltLabel();
     }
@@ -79,6 +100,7 @@ function toggleImage() {
 // --- Token select and loader logic for index.html ---
 
 const select = document.getElementById('tokenSelect');
+
 if (select) {
     // Populate the select dropdown with options 1-333
     for (let i = 1; i <= 333; i++) {
@@ -104,7 +126,16 @@ if (select) {
         const img2 = document.getElementById('image2');
         const img3 = document.getElementById('image3');
         const img4 = document.getElementById('image4');
-        let img5 = document.getElementById('image5');
+        // Remove all img5 from the parent container before creating/appending a new one
+        if (img4 && img4.parentNode) {
+            const parent = img4.parentNode;
+            Array.from(parent.querySelectorAll('#image5')).forEach(img => {
+                img.onload = null;
+                img.onerror = null;
+                parent.removeChild(img);
+            });
+        }
+        let img5 = null;
 
         // Show loader
         showLoader();
@@ -129,72 +160,38 @@ if (select) {
                 img3.alt = 'Evolved Ape';
                 img4.alt = 'Warrior Ape';
 
-                // If special token, ensure image5 exists, else remove/hide it
-                if (specialTokens.includes(n)) {
-                    if (!img5) {
-                        img5 = document.createElement('img');
-                        img5.id = 'image5';
-                        img5.style.display = 'none';
-                        img5.style.position = 'absolute';
-                        img5.style.top = '0';
-                        img5.style.left = '0';
-                        img5.style.width = '100%';
-                        img5.style.height = 'auto';
-                        img5.style.maxWidth = '100vw';
-                        img5.style.maxHeight = '100vh';
-                        img5.style.objectFit = 'contain';
-                        img5.style.display = 'none';
-                        img5.style.transition = 'opacity 0.4s ease';
-                        img5.style.opacity = '1';
-                        img5.style.pointerEvents = 'auto';
-                        img5.src = '';
-                        img5.onload = null;
-                        img5.onerror = null;
-                        img4.parentNode.appendChild(img5);
+                // If special token or golden token, ensure image5 exists, else remove/hide it
+                if (specialTokens.includes(n) || goldenTokens.includes(n)) {
+                    img5 = document.createElement('img');
+                    img5.id = 'image5';
+                    img5.style.display = 'none'; // Only set display, rest from CSS
+                    img4.parentNode.appendChild(img5);
+
+                    // Set alt for image5
+                    if (goldenTokens.includes(n)) {
+                        img5.alt = 'Golden Revelation';
+                    } else {
+                        img5.alt = characterName;
                     }
-                    // Set alt for image5 to character name
-                    img5.alt = characterName;
                     img5.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/${n}.png`;
-                    img5.style.display = 'none';
-                } else if (img5) {
-                    img5.parentNode.removeChild(img5);
                 }
 
-                // Set sources for all images
+                // Set sources for all images except img5 (already set above if needed)
                 img1.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/1/${n}.png`;
                 img2.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/2/${n}.png`;
                 img3.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/3/${n}.png`;
                 img4.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/${n}.png`;
-                if (img5) img5.src = `https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/${n}.png`;
 
                 // Wait for all images to load
-                let expected = specialTokens.includes(n) ? 5 : 4;
+                let expected = (specialTokens.includes(n) || goldenTokens.includes(n)) ? 5 : 4;
                 let loaded = 0;
                 function checkHide() {
                     loaded++;
                     if (loaded === expected) {
                         hideLoader();
                         collectImages();
-                        // Show correct initial image
-                        if (specialTokens.includes(n) && img5) {
-                            images.forEach(img => img.style.display = 'none');
-                            img5.style.display = 'block';
-                            currentImageIndex = 4;
-                        } else if (img4) {
-                            images.forEach(img => img.style.display = 'none');
-                            img4.style.display = 'block';
-                            currentImageIndex = 3;
-                        } else if (img3) {
-                            images.forEach(img => img.style.display = 'none');
-                            img3.style.display = 'block';
-                            currentImageIndex = 2;
-                        } else {
-                            images.forEach((img, idx) => {
-                                img.style.display = idx === 0 ? 'block' : 'none';
-                            });
-                            currentImageIndex = 0;
-                        }
-                        updateAltLabel();
+                        // Show correct initial image (always use showInitialImage)
+                        showInitialImage();
                     }
                 }
                 img1.onload = checkHide;
@@ -218,7 +215,7 @@ if (select) {
                 img4.alt = '';
                 if (img5) img5.alt = '';
             });
+    }
 
     select.addEventListener('change', updateImages);
-}
 }

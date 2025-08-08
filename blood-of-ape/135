@@ -38,6 +38,10 @@
         {
             "trait_type": "Paradox Tribe",
             "value": "BloodRed"
+        },
+        {
+            "trait_type": "Blessing",
+            "value": "Golden Revelation"
         }
     ],
     "external_url": "https://eyeverse.world/bloodofape",
