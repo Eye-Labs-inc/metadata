@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #577",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/577.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/577.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Scorpion Berserker",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "The Watched",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Twin Demon Vizards",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Demon Vizard (L)",
       "trait_type": "Front"
     }

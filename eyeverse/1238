@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #1238",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1238.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/1238.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Elder Pixie Wings",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Night Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Watching Kudu Warrior",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Tribal Cape",
       "trait_type": "Front"
     }

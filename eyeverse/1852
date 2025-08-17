@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #1852",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1852.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/1852.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Sword Trio",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Eye Lord",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Divine Planetary",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Scoped Body Brace",
       "trait_type": "Front"
     }

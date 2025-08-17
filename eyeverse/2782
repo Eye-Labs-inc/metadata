@@ -1,33 +1,29 @@
 {
-  "name": "Eyeverse #2782",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2782.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Red Heavy wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "X Halo Scope",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Hell's Desert Cape (W)",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2782",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/2782.png",
+    "attributes": [
+        {
+                  "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Red Heavy wings",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "X Halo Scope",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Hell's Desert Cape (W)",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2782.html"
 }

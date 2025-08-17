@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #1107",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1107.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Thorn Sword Throne",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Kudu Impaler (R)",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Spartan Kudu Berserker",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1107",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/1107.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Thorn Sword Throne",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Kudu Impaler (R)",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Spartan Kudu Berserker",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1107.html"
 }

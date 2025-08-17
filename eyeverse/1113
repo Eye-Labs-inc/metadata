@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #1113",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1113.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/1113.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Springbok Wings",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "The Watched",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Demon Vizard Left",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Devil's Ribs",
       "trait_type": "Front"
     }

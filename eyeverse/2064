@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #2064",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2064.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2064.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Blade Throne",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Skull twin halo",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Twin Vizard ",
       "trait_type": "Front"
     }

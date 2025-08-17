@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #2751",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2751.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Dulker Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "King's Replica",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Fused Spartan Skull (R)",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2751",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/2751.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Dulker Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "King's Replica",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Fused Spartan Skull (R)",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2751.html"
 }

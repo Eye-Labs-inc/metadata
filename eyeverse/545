@@ -1,37 +1,37 @@
 {
-  "name": "Eyeverse #545",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/545.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Left Hammer Axe ",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Queen",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Divine Devil Planet",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Kratos's Fury (R)",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #65",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #545",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/545.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Left Hammer Axe ",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Queen",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Divine Devil Planet",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Kratos's Fury (R)",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #65",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/545.html"
 }

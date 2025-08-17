@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #2102",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2102.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2102.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Sword Throne",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Dagger Jail",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Desert Cape",
       "trait_type": "Front"
     }

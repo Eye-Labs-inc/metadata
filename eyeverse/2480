@@ -1,32 +1,37 @@
 {
-  "name": "Eyeverse #2480",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2480.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Scorpion Berserker",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Lord",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Floating Thorns",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Demon Vizard (L)",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Spray #57",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2480",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2480.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Scorpion Berserker",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Lord",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Floating Thorns",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Demon Vizard (L)",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Spray #57",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Kid Holiday"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2480.html"
 }

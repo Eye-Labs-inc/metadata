@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #3136",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3136.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/3136.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Long Sword Right",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Eye Lord",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Devil's Sidekick",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Skull Button Cape",
       "trait_type": "Front"
     }

@@ -1,37 +1,37 @@
 {
-  "name": "Eyeverse #68",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/68.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Pixie Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Day Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Twin Demon Vizards",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Snake Master ",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splash #43",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #68",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/68.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Pixie Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Day Watcher",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Twin Demon Vizards",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Snake Master ",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splash #43",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/68.html"
 }

@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #2501",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2501.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2501.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Sword Throne",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Divine Planetary",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Kudu Skull Turtle Plate (R)",
       "trait_type": "Front"
     }

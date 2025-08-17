@@ -1,34 +1,29 @@
 {
-  "name": "Eyeverse #2343",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2343.png",
-  "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2343.html",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Blade Throne",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Skull Support",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Skull Button Cape",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2343",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/2343.png",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2343.html",
+    "attributes": [
+        {
+                  "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+                  "value": "Blade Throne",
+            "trait_type": "Back"
+        },
+        {
+                  "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+                  "value": "Skull Support",
+            "trait_type": "Head"
+        },
+        {
+                  "value": "Skull Button Cape",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye"
 }

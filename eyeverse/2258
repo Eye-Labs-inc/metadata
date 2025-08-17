@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #2258",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2258.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2258.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Left Hammer Axe ",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Night Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Bleeding Thorn Halo",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Kratos",
       "trait_type": "Front"
     }

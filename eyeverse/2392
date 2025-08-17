@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #2392",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/2392.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2392.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Red Tusks",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Aristocrat's Helmet",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Twin Shoulder Impalers",
       "trait_type": "Front"
     }

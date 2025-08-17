@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #2001",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/2001.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Scythe Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Rooted Watcher Halo",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Fused Black Armor (L)",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #2001",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/2001.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Scythe Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Rooted Watcher Halo",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Fused Black Armor (L)",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2001.html"
 }

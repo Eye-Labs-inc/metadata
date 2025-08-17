@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #220",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/220.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/220.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Arrows Left",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Divine Devil Planet",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Guts Left",
       "trait_type": "Front"
     }

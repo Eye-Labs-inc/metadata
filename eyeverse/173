@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #173",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/173.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Red Tusks",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Divine Watch",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Shoulder Impalers (L)",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #173",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/173.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Red Tusks",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Divine Watch",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Shoulder Impalers (L)",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/173.html"
 }

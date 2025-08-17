@@ -1,37 +1,37 @@
 {
-  "name": "Eyeverse #1550",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1550.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Sickle Berserker",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Night Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Kudu Warrior",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Fused Spartan Skull (R)",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #47",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1550",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1550.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Sickle Berserker",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Night Watcher",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Kudu Warrior",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Fused Spartan Skull (R)",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #47",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1550.html"
 }

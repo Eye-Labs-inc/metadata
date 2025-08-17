@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #1775",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/switched/1775.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Arrows Left",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Rooted Watching Skull Halo",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Devil's Kudu Berserker",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1775",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/1775.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Arrows Left",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Rooted Watching Skull Halo",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Devil's Kudu Berserker",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1775.html"
 }

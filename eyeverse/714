@@ -1,37 +1,37 @@
 {
-  "name": "Eyeverse #714",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/714.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Long Sword Right",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Day Watcher",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Desert Traveller (R)",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Frozen Tribal Armor & Shield",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #7",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #714",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/714.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Long Sword Right",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Day Watcher",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Desert Traveller (R)",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Frozen Tribal Armor & Shield",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #7",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/714.html"
 }

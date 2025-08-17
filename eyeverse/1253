@@ -1,30 +1,25 @@
 {
   "name": "Eyeverse #1253",
   "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1253.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/1253.png",
   "attributes": [
     {
-      "display_type": null,
       "value": "Knighted",
       "trait_type": "Blessing"
     },
     {
-      "display_type": null,
       "value": "Red Heavy wings",
       "trait_type": "Back"
     },
     {
-      "display_type": null,
       "value": "Eye Lord",
       "trait_type": "Character"
     },
     {
-      "display_type": null,
       "value": "Vizard of Thorns",
       "trait_type": "Head"
     },
     {
-      "display_type": null,
       "value": "Kudu Skull Turtle Plate (R)",
       "trait_type": "Front"
     }

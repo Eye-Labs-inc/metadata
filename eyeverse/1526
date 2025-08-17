@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #1526",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1526.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Red Heavy Demonic Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Kudu Warrior",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Awakened Brace Rings",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1526",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/1526.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Red Heavy Demonic Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Kudu Warrior",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Awakened Brace Rings",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1526.html"
 }

@@ -1,37 +1,37 @@
 {
-  "name": "Eyeverse #1549",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1549.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Short sword Right",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "King's Replica",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Twin Turtle Skull Horns",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splash #53",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1549",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1549.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Short sword Right",
+            "trait_type": "Back"
+        },
+        {
+            "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+            "value": "King's Replica",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Twin Turtle Skull Horns",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splash #53",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1549.html"
 }

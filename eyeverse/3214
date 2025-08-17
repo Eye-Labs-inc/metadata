@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #3214",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3214.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Scorpion Berserker",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Eye Light",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Fury Swipes",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #3214",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/3214.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Scorpion Berserker",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Eye Light",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Fury Swipes",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/3214.html"
 }

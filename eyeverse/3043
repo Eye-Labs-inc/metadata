@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #3043",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/3043.png",
-  "attributes": [
-    {
-      "value": "EyeKnighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Eland Horns",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Helmet of Thorns",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Snake Hunter",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #3043",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/3043.png",
+    "attributes": [
+        {
+            "value": "EyeKnighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Eland Horns",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Helmet of Thorns",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Snake Hunter",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/3043.html"
 }

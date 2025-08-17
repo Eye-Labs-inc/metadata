@@ -1,37 +1,37 @@
 {
-  "name": "Eyeverse #338",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/338.png",
-  "attributes": [
-    {
-      "display_type": null,
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "display_type": null,
-      "value": "Fallen Angel Wings",
-      "trait_type": "Back"
-    },
-    {
-      "display_type": null,
-      "value": "Eye King",
-      "trait_type": "Character"
-    },
-    {
-      "display_type": null,
-      "value": "Demon Vizard Left",
-      "trait_type": "Head"
-    },
-    {
-      "display_type": null,
-      "value": "Clawed Fury Swipees",
-      "trait_type": "Front"
-    },
-    {
-      "value": "Splatter #27",
-      "trait_type": "Cookie"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #338",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/338.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Fallen Angel Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye King",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Demon Vizard Left",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Clawed Fury Swipees",
+            "trait_type": "Front"
+        },
+        {
+            "value": "Splatter #27",
+            "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/338.html"
 }

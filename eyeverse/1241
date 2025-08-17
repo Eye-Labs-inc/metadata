@@ -1,28 +1,29 @@
 {
-  "name": "Eyeverse #1241",
-  "description": null,
-  "image": "https://eyeverse.s3.amazonaws.com/metadata/images/1241.png",
-  "attributes": [
-    {
-      "value": "Enlightened",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Paradox Scythe Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Knight",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Paradox Desert Traveller (L)",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Paradox Red Awakened Eye",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "Eyeverse #1241",
+    "description": null,
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/1241.gif",
+    "attributes": [
+        {
+            "value": "Enlightened",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "Paradox Scythe Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Knight",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Paradox Desert Traveller (L)",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Paradox Red Awakened Eye",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye",
+    "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1241.html"
 }
