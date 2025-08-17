@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2571.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Heavy Wings",
+            "value": "Heavy Wings",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "Aristocratic Left",
+            "value": "Aristocratic Left",
             "trait_type": "Head"
         },
         {
-                  "value": "Tribal Cape",
+            "value": "Tribal Cape",
             "trait_type": "Front"
         },
         {
             "value": "Splash #4",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

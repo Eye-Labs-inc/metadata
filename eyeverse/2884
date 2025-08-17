@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2884.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Heavy Axe Berserker",
+            "value": "Heavy Axe Berserker",
             "trait_type": "Back"
         },
         {
-                  "value": "Night Watcher",
+            "value": "Night Watcher",
             "trait_type": "Character"
         },
         {
-                  "value": "Twin Demon Vizards",
+            "value": "Twin Demon Vizards",
             "trait_type": "Head"
         },
         {
-                  "value": "Impaler Guard",
+            "value": "Impaler Guard",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #28",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
         }
     ],
     "compiler": "Eye",

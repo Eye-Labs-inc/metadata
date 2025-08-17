@@ -26,6 +26,10 @@
         {
             "value": "Spray #56",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

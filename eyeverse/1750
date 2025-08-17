@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1750.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Sword Throne",
+            "value": "Sword Throne",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Prince",
+            "value": "Eye Prince",
             "trait_type": "Character"
         },
         {
-                  "value": "Kudu Impaler (R)",
+            "value": "Kudu Impaler (R)",
             "trait_type": "Head"
         },
         {
-                  "value": "Frozen Skull Tribe",
+            "value": "Frozen Skull Tribe",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #66",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

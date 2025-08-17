@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/418.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Long Sword Right",
+            "value": "Long Sword Right",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "Skull twin halo",
+            "value": "Skull twin halo",
             "trait_type": "Head"
         },
         {
-                  "value": "Skull Turtle Shell (R)",
+            "value": "Skull Turtle Shell (R)",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #19",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1848.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Springbok Wings",
+            "value": "Springbok Wings",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Lord",
+            "value": "Eye Lord",
             "trait_type": "Character"
         },
         {
-                  "value": "Twin Watcher Halo",
+            "value": "Twin Watcher Halo",
             "trait_type": "Head"
         },
         {
-                  "value": "Shoulders Rings Brace",
+            "value": "Shoulders Rings Brace",
             "trait_type": "Front"
         },
         {
             "value": "Spray #14",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Throwdown"
         }
     ],
     "compiler": "Eye",

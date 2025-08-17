@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/240.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Left Hammer Axe ",
+            "value": "Left Hammer Axe ",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Lord",
+            "value": "Eye Lord",
             "trait_type": "Character"
         },
         {
-                  "value": "Halo of Thorns",
+            "value": "Halo of Thorns",
             "trait_type": "Head"
         },
         {
-                  "value": "Demon Vizard (L)",
+            "value": "Demon Vizard (L)",
             "trait_type": "Front"
         },
         {
             "value": "Spray #29",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
         }
     ],
     "compiler": "Eye",

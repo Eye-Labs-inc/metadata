@@ -26,6 +26,10 @@
         {
             "value": "Spray #15",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Throwdown"
         }
     ],
     "compiler": "Eye",

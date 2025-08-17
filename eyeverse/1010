@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1010.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Long Sword Left",
+            "value": "Long Sword Left",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "Scope Ring",
+            "value": "Scope Ring",
             "trait_type": "Head"
         },
         {
-                  "value": "Awakened Brace Rings",
+            "value": "Awakened Brace Rings",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #61",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

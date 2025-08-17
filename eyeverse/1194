@@ -5,28 +5,32 @@
     "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/1194.html",
     "attributes": [
         {
-                  "value": "Enlightened",
+            "value": "Enlightened",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Paradox Blessed Wings",
+            "value": "Paradox Blessed Wings",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Knight",
+            "value": "Eye Knight",
             "trait_type": "Character"
         },
         {
-                  "value": "Paradox X Halo Scope",
+            "value": "Paradox X Halo Scope",
             "trait_type": "Head"
         },
         {
-                  "value": "Paradox Kratos",
+            "value": "Paradox Kratos",
             "trait_type": "Front"
         },
         {
             "value": "Super Double-dipped #51",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye"

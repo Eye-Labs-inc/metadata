@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/3027.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Long Swords Berserker",
+            "value": "Long Swords Berserker",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "Scope Ring",
+            "value": "Scope Ring",
             "trait_type": "Head"
         },
         {
-                  "value": "Half Skull Turtle impaler (L) ",
+            "value": "Half Skull Turtle impaler (L) ",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #60",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

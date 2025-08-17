@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/396.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Cracked Sickle",
+            "value": "Cracked Sickle",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "Rooted Risen Demon Skull",
+            "value": "Rooted Risen Demon Skull",
             "trait_type": "Head"
         },
         {
-                  "value": "Guts Left",
+            "value": "Guts Left",
             "trait_type": "Front"
         },
         {
             "value": "Spray #21",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

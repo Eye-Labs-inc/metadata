@@ -26,6 +26,10 @@
         {
             "value": "Splash #25",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
         }
     ],
     "compiler": "Eye",

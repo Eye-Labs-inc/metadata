@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2868.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Blade Throne",
+            "value": "Blade Throne",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "Jailer's Halo",
+            "value": "Jailer's Halo",
             "trait_type": "Head"
         },
         {
-                  "value": "Frozen Desert Cape",
+            "value": "Frozen Desert Cape",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #6",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

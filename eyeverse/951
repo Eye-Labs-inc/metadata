@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/951.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Sickle Berserker",
+            "value": "Sickle Berserker",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Queen",
+            "value": "Eye Queen",
             "trait_type": "Character"
         },
         {
-                  "value": "Aristocratic Right",
+            "value": "Aristocratic Right",
             "trait_type": "Head"
         },
         {
-                  "value": "Spartan Winter Brace",
+            "value": "Spartan Winter Brace",
             "trait_type": "Front"
         },
         {
             "value": "Spray #45",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
         }
     ],
     "compiler": "Eye",

@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2994.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Left Hammer Axe ",
+            "value": "Left Hammer Axe ",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Queen",
+            "value": "Eye Queen",
             "trait_type": "Character"
         },
         {
-                  "value": "Horned Skull halo",
+            "value": "Horned Skull halo",
             "trait_type": "Head"
         },
         {
-                  "value": "Spartan Frozen Brace",
+            "value": "Spartan Frozen Brace",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #12",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Kid Holiday"
         }
     ],
     "compiler": "Eye",

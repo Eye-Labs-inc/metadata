@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1549.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Short sword Right",
+            "value": "Short sword Right",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "King's Replica",
+            "value": "King's Replica",
             "trait_type": "Head"
         },
         {
-                  "value": "Twin Turtle Skull Horns",
+            "value": "Twin Turtle Skull Horns",
             "trait_type": "Front"
         },
         {
             "value": "Splash #53",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",

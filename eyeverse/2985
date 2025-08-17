@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2985.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Skull Watchers",
+            "value": "Skull Watchers",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye King",
+            "value": "Eye King",
             "trait_type": "Character"
         },
         {
-                  "value": "Rooted Demon Skull Halo",
+            "value": "Rooted Demon Skull Halo",
             "trait_type": "Head"
         },
         {
-                  "value": "Billy Goat Rings",
+            "value": "Billy Goat Rings",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #48",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
         }
     ],
     "compiler": "Eye",

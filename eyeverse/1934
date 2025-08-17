@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1934.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Faux Wings",
+            "value": "Faux Wings",
             "trait_type": "Back"
         },
         {
-                  "value": "The Watched",
+            "value": "The Watched",
             "trait_type": "Character"
         },
         {
-                  "value": "X Halo Scope",
+            "value": "X Halo Scope",
             "trait_type": "Head"
         },
         {
-                  "value": "Hell's Desert Cape",
+            "value": "Hell's Desert Cape",
             "trait_type": "Front"
         },
         {
             "value": "Splash #1",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Throwdown"
         }
     ],
     "compiler": "Eye",

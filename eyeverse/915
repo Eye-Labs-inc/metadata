@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/915.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Blade Throne",
+            "value": "Blade Throne",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Princess",
+            "value": "Eye Princess",
             "trait_type": "Character"
         },
         {
-                  "value": "Kudu Warrior",
+            "value": "Kudu Warrior",
             "trait_type": "Head"
         },
         {
-                  "value": "Demonic Vizard Snake",
+            "value": "Demonic Vizard Snake",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #69",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Molly"
         }
     ],
     "compiler": "Eye",

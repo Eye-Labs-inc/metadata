@@ -4,28 +4,32 @@
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2849.png",
     "attributes": [
         {
-                  "value": "Knighted",
+            "value": "Knighted",
             "trait_type": "Blessing"
         },
         {
-                  "value": "Scythe Wings",
+            "value": "Scythe Wings",
             "trait_type": "Back"
         },
         {
-                  "value": "Eye Princess",
+            "value": "Eye Princess",
             "trait_type": "Character"
         },
         {
-                  "value": "Devil's Sidekick",
+            "value": "Devil's Sidekick",
             "trait_type": "Head"
         },
         {
-                  "value": "Scoped Fury Swipes",
+            "value": "Scoped Fury Swipes",
             "trait_type": "Front"
         },
         {
             "value": "Splatter #63",
             "trait_type": "Cookie"
+        },
+        {
+            "trait_type": "Cookie Artist",
+            "value": "Brown Bear"
         }
     ],
     "compiler": "Eye",
