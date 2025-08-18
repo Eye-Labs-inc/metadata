@@ -4,7 +4,7 @@
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/2325.gif",
   "attributes": [
     {
-      "value": "Knighted",
+      "value": "Enlightened",
       "trait_type": "Blessing"
     },
     {
@@ -24,5 +24,6 @@
       "trait_type": "Front"
     }
   ],
-  "compiler": "Eye"
+  "compiler": "Eye",
+  "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/2325.html"
 }
