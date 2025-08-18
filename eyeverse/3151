@@ -2,6 +2,28 @@
   "name": "Eyeverse #3151",
   "description": null,
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/switched/3151.gif",
-  "attributes": [],
-  "compiler": "Eye"
+  "attributes": [
+    {
+      "value": "Enlightened",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Paradox Blessed Wingd",
+      "trait_type": "Back"
+    },
+    {
+      "value": "Eye Knight",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Paradox Jailer's Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Paradox Spartan Frozen Scoped",
+      "trait_type": "Front"
+    }
+  ],
+  "compiler": "Eye",
+  "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/3151.html"
 }
