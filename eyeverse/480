@@ -1,7 +1,7 @@
 {
   "name": "Eyeverse #480",
   "description": null,
-  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/480.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/480.png",
   "attributes": [
     {
       "value": "Knighted",
@@ -22,7 +22,16 @@
     {
       "value": "Skull Button Cape",
       "trait_type": "Front"
+    },
+    {
+        "value": "Splatter #75",
+        "trait_type": "Cookie"
+    },
+    {
+        "trait_type": "Cookie Artist",
+        "value": "Throwdown"
     }
   ],
-  "compiler": "Eye"
+  "compiler": "Eye",
+  "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/480.html"
 }
