@@ -2,6 +2,27 @@
   "name": "Eyeverse #1605",
   "description": null,
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/1605.png",
-  "attributes": [],
+  "attributes": [
+    {
+      "value": "Knighted",
+      "trait_type": "Blessing"
+    },
+    {
+      "value": "Long Swords Berserker",
+      "trait_type": "Back"
+    },
+    {
+      "value": "The Watched",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Shooting Halo",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hell's Desert Cape (W)",
+      "trait_type": "Front"
+    }
+  ],
   "compiler": "Eye"
 }
