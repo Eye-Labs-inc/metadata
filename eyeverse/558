@@ -32,5 +32,6 @@
         "value": "Throwdown"
     }
   ],
-  "compiler": "Eye"
+  "compiler": "Eye",
+  "animation_url": "https://metadata.eyeverse.world/eyeverse-switch/558.html"
 }
