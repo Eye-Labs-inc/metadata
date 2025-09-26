@@ -1,7 +1,7 @@
 {
   "name": "Eyeverse #558",
   "description": null,
-  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/558.png",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/558.png",
   "attributes": [
     {
       "value": "Knighted",
@@ -22,6 +22,14 @@
     {
       "value": "Guts Left",
       "trait_type": "Front"
+    },
+    {
+        "value": "Splatter #76",
+        "trait_type": "Cookie"
+    },
+    {
+        "trait_type": "Cookie Artist",
+        "value": "Throwdown"
     }
   ],
   "compiler": "Eye"
