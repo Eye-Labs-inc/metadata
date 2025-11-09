@@ -1,49 +1,50 @@
 {
-    "name": "#269 Grex The Deadly",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/269.png",
-    "description": "Grex, the Right-Hand Rhythm of the Twin Tempest, moves with precise power - his chain strikes swift and dominant with his right hand. Known for leading the offensive flow of the Rampage Division, Grex's fierce coordination with his twin is born from years of perfect harmony and balance. He embodies the controlled aggression that turns synchronized dance into lethal combat, weaving ancient hunting techniques with modern battle strategy. Grex commands the battlefield as he executes the devastating moves of the 'Twin's Waltz', embodying strength in perfect opposition.\nBrace.\n\nParadox #8445\nEvolved from Nibitum The Bloody",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Snarl"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "None"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Obsidian"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Snake Alley Falls"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Blood Light"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Blood Shoulder Brace (r)"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Grex The Deadly"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Chains of the Mirror Fang (Flame)"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "The Bloody"
-        },
-        {
-            "trait_type": "Division",
-            "value": "Rampage"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/269.html"
+  "name": "#269 Grex The Deadly",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/269.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/269.mml",
+  "description": "Grex, the Right-Hand Rhythm of the Twin Tempest, moves with precise power - his chain strikes swift and dominant with his right hand. Known for leading the offensive flow of the Rampage Division, Grex's fierce coordination with his twin is born from years of perfect harmony and balance. He embodies the controlled aggression that turns synchronized dance into lethal combat, weaving ancient hunting techniques with modern battle strategy. Grex commands the battlefield as he executes the devastating moves of the 'Twin's Waltz', embodying strength in perfect opposition.\nBrace.\n\nParadox #8445\nEvolved from Nibitum The Bloody",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Snarl"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Snake Alley Falls"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blood Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blood Shoulder Brace (r)"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Grex The Deadly"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Chains of the Mirror Fang (Flame)"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "The Bloody"
+    },
+    {
+      "trait_type": "Division",
+      "value": "Rampage"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/269.html"
 }

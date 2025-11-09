@@ -1,45 +1,46 @@
 {
-    "name": "#169 Anulitta VeinBorn",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/169.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8345",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Mischievous"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Obsidian Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Obsidian"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Snake Alley"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Oni"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Blood Shoulder Brace (r)"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Bloody Drillance"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "VeinBorn"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/169.html"
+  "name": "#169 Anulitta VeinBorn",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/169.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/169.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8345",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Mischievous"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Obsidian Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Snake Alley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Oni"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blood Shoulder Brace (r)"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Bloody Drillance"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "VeinBorn"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/169.html"
 }

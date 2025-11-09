@@ -1,45 +1,46 @@
 {
-    "name": "#144 Urzoth BlutFin",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/144.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8320",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Spitefang"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Obsidian Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Earthhide"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Red King's Kill"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Flying Red Goat"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Old Dragon Breast"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Single Head Staff"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "BlutFin"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/144.html"
+  "name": "#144 Urzoth BlutFin",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/144.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/144.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8320",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Spitefang"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Obsidian Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Earthhide"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red King's Kill"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flying Red Goat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Old Dragon Breast"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Single Head Staff"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "BlutFin"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/144.html"
 }

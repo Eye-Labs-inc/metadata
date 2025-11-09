@@ -1,45 +1,46 @@
 {
-    "name": "#327 Ket Red Grell",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/327.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8503",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Blank"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Obsidian Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Earthhide"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Inside Snake Alley"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Seer Band"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Bloody Shoulders Brace"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Chokuto"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Red Grell"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/327.html"
+  "name": "#327 Ket Red Grell",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/327.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/327.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8503",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Blank"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Obsidian Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Earthhide"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Inside Snake Alley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seer Band"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody Shoulders Brace"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Chokuto"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Red Grell"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/327.html"
 }

@@ -1,45 +1,46 @@
 {
-    "name": "#72 Gihursag Broken Blood",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/72.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8248",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Still"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Obsidian Forged"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Emerald Bloom"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Forest Pathway"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Malice Crown"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Tribal Alchemyst"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Eye Lord"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Dark Demon Sword"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Broken Blood"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/72.html"
+  "name": "#72 Gihursag Broken Blood",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/72.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/72.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8248",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Still"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Obsidian Forged"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Emerald Bloom"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Pathway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Malice Crown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal Alchemyst"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Eye Lord"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Dark Demon Sword"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Broken Blood"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/72.html"
 }

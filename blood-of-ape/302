@@ -1,45 +1,46 @@
 {
-    "name": "#302 Romarod BloodRed",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/302.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8478",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Shut Eye"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "None"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Emerald Bloom"
-        },
-        {
-            "trait_type": "Background",
-            "value": "The Eye of Malice"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Blood Enlightenment"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Alchemy Cape"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Day Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Blacktree Skysplitter"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "BloodRed"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/302.html"
+  "name": "#302 Romarod BloodRed",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/302.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/302.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8478",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Shut Eye"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Emerald Bloom"
+    },
+    {
+      "trait_type": "Background",
+      "value": "The Eye of Malice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blood Enlightenment"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alchemy Cape"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Day Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Blacktree Skysplitter"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "BloodRed"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/302.html"
 }

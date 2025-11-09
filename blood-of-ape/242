@@ -1,45 +1,46 @@
 {
-    "name": "#242 Vikru The Grizzeled",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/242.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8418",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Wraithskin Still"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Obsidian Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Earthhide"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Snake Alley"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Alchemist Band"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Chimera Jungle King"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Dual Caliburn"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "The Grizzeled"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/242.html"
+  "name": "#242 Vikru The Grizzeled",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/242.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/242.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8418",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Wraithskin Still"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Obsidian Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Earthhide"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Snake Alley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alchemist Band"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chimera Jungle King"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Dual Caliburn"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "The Grizzeled"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/242.html"
 }

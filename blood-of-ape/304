@@ -1,45 +1,46 @@
 {
-    "name": "#304 Squggaqaaw Sky Death",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/304.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8480",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Blank"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "None"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Stormhide"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Inside Snake Alley"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Flying Red Goat"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Nomad Breast"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Day Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Dark Whistler Staff"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Sky Death"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/304.html"
+  "name": "#304 Squggaqaaw Sky Death",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/304.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/304.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8480",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Blank"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Stormhide"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Inside Snake Alley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flying Red Goat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nomad Breast"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Day Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Dark Whistler Staff"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Sky Death"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/304.html"
 }

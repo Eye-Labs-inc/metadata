@@ -1,45 +1,46 @@
 {
-    "name": "#305 Qikue DeathStrum",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/305.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8481",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Shut Eye"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Crimson Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Earthhide"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Forest Pathway"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Dark Enemy"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Lightning Blood"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Dark Whistler Staff"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "DeathStrum"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/305.html"
+  "name": "#305 Qikue DeathStrum",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/305.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/305.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8481",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Shut Eye"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Crimson Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Earthhide"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Pathway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Enemy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lightning Blood"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Dark Whistler Staff"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "DeathStrum"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/305.html"
 }
