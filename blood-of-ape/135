@@ -1,49 +1,50 @@
 {
-    "name": "#135 Anulitta BloodRed",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/135.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8311",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Mischievous"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Flame Forged"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Ashkin"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Forest Pathway"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Crown Of Eye Sins"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Lightning Blood"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Eye Lord"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Paladinhead Twin Staffs"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "BloodRed"
-        },
-        {
-            "trait_type": "Blessing",
-            "value": "Golden Revelation"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/135.html"
+  "name": "#135 Anulitta BloodRed",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/135.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/135.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8311",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Mischievous"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Flame Forged"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Ashkin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Pathway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown Of Eye Sins"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lightning Blood"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Eye Lord"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Paladinhead Twin Staffs"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "BloodRed"
+    },
+    {
+      "trait_type": "Blessing",
+      "value": "Golden Revelation"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/135.html"
 }

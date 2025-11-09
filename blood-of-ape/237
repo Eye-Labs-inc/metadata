@@ -1,45 +1,46 @@
 {
-    "name": "#237 Brirgulzot Pale Blood",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/237.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8413",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Wraithskin Spitefang"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Obsidian Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Rootfur"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Red King's Kill"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Iron Soldier"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Bloody Shoulders Brace"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Burning Hand Staff (r)"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Pale Blood"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/237.html"
+  "name": "#237 Brirgulzot Pale Blood",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/237.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/237.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8413",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Wraithskin Spitefang"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Obsidian Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Rootfur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red King's Kill"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Iron Soldier"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody Shoulders Brace"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Burning Hand Staff (r)"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Pale Blood"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/237.html"
 }

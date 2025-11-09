@@ -1,45 +1,46 @@
 {
-    "name": "#265 Bugdurash Pale Blood",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/265.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8441",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Mischievous"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "None"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Crimson Oath"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Hidden Cave"
-        },
-        {
-            "trait_type": "Head",
-            "value": "I Killed A Demon"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Blood Shoulder Brace (r)"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Day Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Royal Hand Staff (r)"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Pale Blood"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/265.html"
+  "name": "#265 Bugdurash Pale Blood",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/265.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/265.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8441",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Mischievous"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Crimson Oath"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hidden Cave"
+    },
+    {
+      "trait_type": "Head",
+      "value": "I Killed A Demon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blood Shoulder Brace (r)"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Day Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Royal Hand Staff (r)"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Pale Blood"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/265.html"
 }

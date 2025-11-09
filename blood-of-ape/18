@@ -1,49 +1,50 @@
 {
-    "name": "#18 Hushen Red Skin",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/18.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8194",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Snarl"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Crimson Watchers Brand"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Emerald Bloom"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Inside Snake Alley"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Dark Thorn Halo"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Terror Chest Plate"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Night Watcher"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Chokuto"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Red Skin"
-        },
-        {
-            "trait_type": "Blessing",
-            "value": "Golden Revelation"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/18.html"
+  "name": "#18 Hushen Red Skin",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/18.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/18.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8194",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Snarl"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Crimson Watchers Brand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Emerald Bloom"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Inside Snake Alley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Thorn Halo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Terror Chest Plate"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Night Watcher"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Chokuto"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Red Skin"
+    },
+    {
+      "trait_type": "Blessing",
+      "value": "Golden Revelation"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/18.html"
 }

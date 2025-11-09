@@ -1,45 +1,46 @@
 {
-    "name": "#83 Kucakkack Red Skin",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/83.png",
-    "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8259",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Iron Gaze"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Crimson Forged"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Crimson Oath"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Snake Alley"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Iron Soldier"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Lightning Blood"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Eye Lord"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Sky Splitter Drillance"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Red Skin"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/83.html"
+  "name": "#83 Kucakkack Red Skin",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/83.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/83.mml",
+  "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8259",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Iron Gaze"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Crimson Forged"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Crimson Oath"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Snake Alley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Iron Soldier"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lightning Blood"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Eye Lord"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Sky Splitter Drillance"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Red Skin"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/83.html"
 }

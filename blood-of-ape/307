@@ -1,49 +1,50 @@
 {
-    "name": "#307 Grep The Deadly",
-    "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/307.png",
-    "description": "Grep, the Left-Hand Shadow of the Twin Tempest, complements Grex with fluid grace and tactical retreat - his left-handed chain creating deadly openings in their synchronized assault. His calm intuition and mystical connection to his brother shape the defensive and adaptive rhythm of the Rampage Division. Grep's mastery of balance and timing brings the 'Twin's Waltz' to life, turning every movement into a harmonious flow of destruction and protection. Together, Grep's subtle power and Grex's forceful drive form the unbreakable Twin Tempest that defines their legacy. \nBrace.\n\nParadox #8483\nEvolved from Uranunit Broken Blood",
-    "attributes": [
-        {
-            "trait_type": "Face",
-            "value": "Ashborn Spitefang"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "None"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Ashkin"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Forest Pathway"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Malice Crown"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Old Dragon Breast"
-        },
-        {
-            "trait_type": "Character",
-            "value": "Grep The Deadly"
-        },
-        {
-            "trait_type": "Weapons",
-            "value": "Chains of the Mirror Fang (Frost)"
-        },
-        {
-            "trait_type": "Paradox Tribe",
-            "value": "Broken Blood"
-        },
-        {
-            "trait_type": "Division",
-            "value": "Rampage"
-        }
-    ],
-    "external_url": "https://eyeverse.world/bloodofape",
-    "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/307.html"
+  "name": "#307 Grep The Deadly",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/307.png",
+  "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/307.mml",
+  "description": "Grep, the Left-Hand Shadow of the Twin Tempest, complements Grex with fluid grace and tactical retreat - his left-handed chain creating deadly openings in their synchronized assault. His calm intuition and mystical connection to his brother shape the defensive and adaptive rhythm of the Rampage Division. Grep's mastery of balance and timing brings the 'Twin's Waltz' to life, turning every movement into a harmonious flow of destruction and protection. Together, Grep's subtle power and Grex's forceful drive form the unbreakable Twin Tempest that defines their legacy. \nBrace.\n\nParadox #8483\nEvolved from Uranunit Broken Blood",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Ashborn Spitefang"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Ashkin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Pathway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Malice Crown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Old Dragon Breast"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Grep The Deadly"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Chains of the Mirror Fang (Frost)"
+    },
+    {
+      "trait_type": "Paradox Tribe",
+      "value": "Broken Blood"
+    },
+    {
+      "trait_type": "Division",
+      "value": "Rampage"
+    }
+  ],
+  "external_url": "https://eyeverse.world/bloodofape",
+  "animation_url": "https://metadata.eyeverse.world/blood-of-ape-switch/307.html"
 }
