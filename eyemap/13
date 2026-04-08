@@ -1,0 +1,17 @@
+{
+  "name": "The Blood of Those Royal",
+  "description": "Royals, the only breeders, the epitome of strength and knowledge, watchers of the world, King and Queen with Princes and Princesses, with full control of kingdom and army who patrol. They can force an evolution of the Watched should they be deemed worthy.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/13.webp",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "3"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

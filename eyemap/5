@@ -1,0 +1,13 @@
+{
+  "name": "Badge of the Eye March",
+  "description": "For the strength and loyalty you've shown, for the King's freedom bestowed, the honorable badge of the Eye March is given, for you to keep being driven. Brace.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/5.webp",
+  "attributes": [
+    {
+      "trait_type": "Badge",
+      "value": "Eye March"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Discord Knight",
+  "description": "For efforts in cleaning and maintaining, of that are pertaining, of our Discord server, a diligent observer",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/10.avif",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Lord Sword"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Discord"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

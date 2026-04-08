@@ -1,0 +1,13 @@
+{
+  "name": "Eyemond Club: The Kings Bliss",
+  "description": "The King's Bliss is the highest accord, for those who were able to afford, holding twenty, truly holders of plenty.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/2.webp",
+  "attributes": [
+    {
+      "trait_type": "Eye Class",
+      "value": "Diamond Eye"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "The Curse of the Watched",
+  "description": "As the kingdom formed and the numbers grew, a curse ensued and a lot is to brew. The Watched were blind, and couldn't find, with tied hands, and an X as a brand, their way through is to use their mind.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/6.webp",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "2"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}
