@@ -1,11 +1,15 @@
 {
   "name": "The Demon at the Gate",
-  "description": "The guardian of the sacred lore, hidden deep down under the floor.",
+  "description": "The guardian of the sacred lore, hidden deep down under the floor.\n\nhttps://eyeverse.world/paradox-gates",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/16.avif",
   "attributes": [
     {
       "trait_type": "Character",
       "value": "Drexel Everpresent"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Paradox Gates"
     }
   ],
   "external_url": "https://eyeverse.world",

@@ -6,6 +6,14 @@
     {
       "trait_type": "Character",
       "value": "Malice"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Bonus"
     }
   ],
   "external_url": "https://eyeverse.world",
