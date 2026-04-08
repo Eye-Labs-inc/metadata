@@ -1,0 +1,13 @@
+{
+  "name": "Eyemond Club: The Dark Dungeon",
+  "description": "The Dark Dungeon is awarded to those who aren't distorted, those who hold five, and for greatness strive.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/4.webp",
+  "attributes": [
+    {
+      "trait_type": "Eye Class",
+      "value": "Silver Eye"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Demon at the Gate",
+  "description": "The guardian of the sacred lore, hidden deep down under the floor.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/16.avif",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Drexel Everpresent"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

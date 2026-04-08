@@ -1,0 +1,13 @@
+{
+  "name": "Malice: The Queen of Red",
+  "description": "A creature that stood so very pure, but corrupted by a king so very poor, of emotion so vile and deadly.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/14.webp",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Malice"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

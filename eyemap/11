@@ -1,0 +1,17 @@
+{
+  "name": "Invisible Knight",
+  "description": "Invisible for a reason, evolving beyond reason, eyes which are shut, to reveal a new strut.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/11.png",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Lord Sword"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Invisible"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

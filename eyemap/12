@@ -1,0 +1,14 @@
+{
+  "name": "Lord Sword",
+  "description": "A knight for being around to fight, a believer of the movement, a knight of improvement.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/12.avif",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Lord Sword"
+    },
+    null
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

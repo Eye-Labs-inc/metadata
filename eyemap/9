@@ -1,0 +1,17 @@
+{
+  "name": "Mic Knight",
+  "description": "A controller of lyrics, of sounds empiric, the mic of logic, for words of magic.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/9.avif",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Lord Sword"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mic"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

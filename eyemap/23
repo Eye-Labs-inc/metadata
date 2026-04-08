@@ -1,0 +1,17 @@
+{
+  "name": "The King of Golemia",
+  "description": "After the glory the Prince of Light witnessed came to be and the tales spread to his Royal Kin, he hadn't stopped partaking in glorious conquest. A fateful day brought him and his army a brutal battle that shook the fabric of the Eyeverse's being.\n\nA war ensued, strength displayed, and speed portrayed. The Prince will fight, an opponent with might. ",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/23.webp",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "8"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

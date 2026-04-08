@@ -1,0 +1,17 @@
+{
+  "name": "The King and the Round Table of Lords",
+  "description": "A table of trust, closest to the King, running the steps of the everything. Sounds to the ear with advice and speciality, the Round Table of the King is a Lord's reality.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/17.webp",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "4"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}

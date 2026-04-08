@@ -1,0 +1,17 @@
+{
+  "name": "ETH Knight",
+  "description": "For those who show determination, both wallet and affirmation, rare among many core, protectors of our floor.",
+  "image": "https://d1f3nwda2dsfwc.cloudfront.net/eyemap/8.avif",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Lord Sword"
+    },
+    {
+      "trait_type": "Type",
+      "value": "ETH"
+    }
+  ],
+  "external_url": "https://eyeverse.world",
+  "compiler": "Eye Labs"
+}
