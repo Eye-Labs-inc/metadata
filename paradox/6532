@@ -1,5 +1,5 @@
 {
-  "name": "#6532 Plaguestrider BloodRed ",
+  "name": "#6532 Plaguestrider Blood Red ",
   "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
   "image": "https://eyeverse.s3.amazonaws.com/paradox/images/6532.png",
   "attributes": [
@@ -12,7 +12,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Daywatcher",
+      "value": "Day Watcher",
       "trait_type": "Character"
     },
     {
@@ -24,7 +24,7 @@
       "trait_type": "Background"
     },
     {
-      "value": " BloodRed ",
+      "value": " Blood Red ",
       "trait_type": "Tribe"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "name": "#9392 Ekidkaks VeinBorn ",
+  "name": "#9392 Ekidkaks Veinborn ",
   "description": "10,000 strong the Army of Malice rally ahead, to the Eyeverse to claim their Kingsâ€™ head. The Paradox is the entry to Eye Labs Inc. gaming vertical.",
   "image": "https://eyeverse.s3.amazonaws.com/paradox/images/9392.png",
   "attributes": [
@@ -12,7 +12,7 @@
       "trait_type": "Body"
     },
     {
-      "value": "Nightwatcher",
+      "value": "Night Watcher",
       "trait_type": "Character"
     },
     {
@@ -24,7 +24,7 @@
       "trait_type": "Background"
     },
     {
-      "value": " VeinBorn ",
+      "value": " Veinborn ",
       "trait_type": "Tribe"
     }
   ],
