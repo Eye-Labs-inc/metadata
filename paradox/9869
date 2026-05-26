@@ -4,11 +4,11 @@
   "image": "https://eyeverse.s3.amazonaws.com/paradox/images/9869.png",
   "attributes": [
     {
-      "value": "I Shant See",
+      "value": "I Shan't See",
       "trait_type": "Head"
     },
     {
-      "value": "Fall Of Bleeding Rings",
+      "value": "Fall of Bleeding Rings",
       "trait_type": "Body"
     },
     {
@@ -20,7 +20,7 @@
       "trait_type": "Back"
     },
     {
-      "value": "Red Kings Death",
+      "value": "Red King's Death",
       "trait_type": "Background"
     },
     {

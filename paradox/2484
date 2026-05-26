@@ -4,11 +4,11 @@
   "image": "https://eyeverse.s3.amazonaws.com/paradox/images/2484.png",
   "attributes": [
     {
-      "value": "I Killed A Demon",
+      "value": "I Killed a Demon",
       "trait_type": "Head"
     },
     {
-      "value": "Fall Of Grace Ring",
+      "value": "Fall of Grace Ring",
       "trait_type": "Body"
     },
     {
@@ -20,7 +20,7 @@
       "trait_type": "Back"
     },
     {
-      "value": " Glorious Redkeep",
+      "value": " Glorious Red Keep",
       "trait_type": "Background"
     },
     {

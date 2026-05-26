@@ -4,11 +4,11 @@
   "image": "https://eyeverse.s3.amazonaws.com/paradox/images/946.png",
   "attributes": [
     {
-      "value": "I Shant See",
+      "value": "I Shan't See",
       "trait_type": "Head"
     },
     {
-      "value": "Fall Of Terror",
+      "value": "Fall of Terror",
       "trait_type": "Body"
     },
     {
@@ -20,7 +20,7 @@
       "trait_type": "Back"
     },
     {
-      "value": "Veins Blessings",
+      "value": "Vein's Blessings",
       "trait_type": "Background"
     },
     {
