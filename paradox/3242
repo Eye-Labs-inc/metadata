@@ -26,6 +26,10 @@
     {
       "value": " The Bloody ",
       "trait_type": "Tribe"
+    },
+    {
+      "value": "Parabox",
+      "trait_type": "Status"
     }
   ],
   "external_url": "https://eyeverse.world/paradox",
