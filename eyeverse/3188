@@ -1,28 +1,32 @@
 {
-  "name": "Eyeverse #3188",
-  "description": null,
-  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/3188.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Twin Mace",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Princess",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Shooting Halo ",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Demon Vizard (L)",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "#3188 Princess Sana",
+    "description": "Warrior Princess and daughter of Wareth - mother of demons, tied to prophecy and the Watched curse alike.",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/3188.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
+        },
+        {
+            "value": "Twin Mace",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Princess",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Shooting Halo ",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Demon Vizard (L)",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye"
 }

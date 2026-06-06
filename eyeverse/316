@@ -1,28 +1,32 @@
 {
-  "name": "Eyeverse #316",
-  "description": null,
-  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/316.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Left Hammer Axe ",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye King",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Helmet of Thorns",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Skull Turtle Impaler (L)",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "#316 King Glacier",
+    "description": "Monarch of the Ice Sub-kingdom - protector of Ascension who stood with Torab and Wareth when the kings spoke of origins.",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/316.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Blessing",
+            "trait_type": "Revelation"
+        },
+        {
+            "value": "Left Hammer Axe ",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye King",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Helmet of Thorns",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Skull Turtle Impaler (L)",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye"
 }

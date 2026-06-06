@@ -1,11 +1,15 @@
 {
-    "name": "Eyeverse #2091",
-    "description": null,
+    "name": "#2091 Lord Emik",
+    "description": "The Silent Serpent Berserker - sand and shadow soldier of the Desert Sub-kingdom, precise and deadly in the ice wars.",
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2091.png",
     "attributes": [
         {
             "value": "Eye Knighted",
             "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
         },
         {
             "value": "Sword Trio",

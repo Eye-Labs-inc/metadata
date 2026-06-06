@@ -1,28 +1,32 @@
 {
-  "name": "Eyeverse #2509",
-  "description": null,
-  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2509.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Sword Throne",
-      "trait_type": "Back"
-    },
-    {
-      "value": "Eye Queen",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Twin Demon Goats",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Devil's Impalers",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "#2509 Queen Claire",
+    "description": "Wareth's queen from the Land of Black and White - witness to war and prophecy across the Eyeverse.",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/2509.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Blessing",
+            "trait_type": "Revelation"
+        },
+        {
+            "value": "Sword Throne",
+            "trait_type": "Back"
+        },
+        {
+            "value": "Eye Queen",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Twin Demon Goats",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Devil's Impalers",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye"
 }

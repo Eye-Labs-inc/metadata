@@ -1,11 +1,15 @@
 {
-    "name": "Eyeverse #2785",
-    "description": null,
+    "name": "#2785 Lord Frigidus",
+    "description": "Lord of the Ice Sub-kingdom - kinsman to the princess line and steadfast when Glacier's realm needed him.",
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/2785.png",
     "attributes": [
         {
             "value": "Knighted",
             "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
         },
         {
             "value": "Kudu Horns",

@@ -1,11 +1,15 @@
 {
-    "name": "Eyeverse #575",
-    "description": null,
+    "name": "#575 Fetya",
+    "description": "Day Watcher of the desert tribe and Agram's partner - the sleeping rock who woke at Golemia.",
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/575.png",
     "attributes": [
         {
             "value": "Eye Knighted",
             "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
         },
         {
             "value": "Quad Swords",

@@ -1,11 +1,15 @@
 {
-    "name": "Eyeverse #338",
-    "description": null,
+    "name": "#338 Chron",
+    "description": "Child of Agram and Fetya, born to prophecy when the Eyeverse turned toward gold and shadow.",
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/338.png",
     "attributes": [
         {
             "value": "Knighted",
             "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
         },
         {
             "value": "Fallen Angel Wings",

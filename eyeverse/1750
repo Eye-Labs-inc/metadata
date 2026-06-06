@@ -1,11 +1,15 @@
 {
-    "name": "Eyeverse #1750",
-    "description": null,
+    "name": "#1750 King Throwdown",
+    "description": "Born of Eye Kin blood, cast aside until the Troll Mother took him in - Troll King of the northern wilds.",
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/1750.png",
     "attributes": [
         {
             "value": "Knighted",
             "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
         },
         {
             "value": "Sword Throne",

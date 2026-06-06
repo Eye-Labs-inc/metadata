@@ -1,11 +1,15 @@
 {
-    "name": "Eyeverse #537",
-    "description": null,
+    "name": "#537 Prince Velos",
+    "description": "Lost prince of the Golden Realm - tempered by trial under the deities until Wareth's line called him home.",
     "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/cookies/537.png",
     "attributes": [
         {
             "value": "Knighted",
             "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
         },
         {
             "value": "Long Sword Right",

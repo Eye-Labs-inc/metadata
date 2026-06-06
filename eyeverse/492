@@ -1,28 +1,32 @@
 {
-  "name": "Eyeverse #492",
-  "description": null,
-  "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/492.png",
-  "attributes": [
-    {
-      "value": "Knighted",
-      "trait_type": "Blessing"
-    },
-    {
-      "value": "Dulker Wings",
-      "trait_type": "Back"
-    },
-    {
-      "value": "The Watched",
-      "trait_type": "Character"
-    },
-    {
-      "value": "Divine Watch",
-      "trait_type": "Head"
-    },
-    {
-      "value": "Guts Left",
-      "trait_type": "Front"
-    }
-  ],
-  "compiler": "Eye"
+    "name": "#492 Jax Youngblood",
+    "description": "A Watched who crossed into the Rally of Blood and rode with the Red Army at Gabrer's camps.",
+    "image": "https://d1f3nwda2dsfwc.cloudfront.net/metadata/images/492.png",
+    "attributes": [
+        {
+            "value": "Knighted",
+            "trait_type": "Blessing"
+        },
+        {
+            "value": "King's Revelation",
+            "trait_type": "Revelation"
+        },
+        {
+            "value": "Dulker Wings",
+            "trait_type": "Back"
+        },
+        {
+            "value": "The Watched",
+            "trait_type": "Character"
+        },
+        {
+            "value": "Divine Watch",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Guts Left",
+            "trait_type": "Front"
+        }
+    ],
+    "compiler": "Eye"
 }
