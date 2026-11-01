@@ -1,5 +1,5 @@
 {
-  "name": "#53 Gegssend BloodRed",
+  "name": "#53 Gegssend Blood Red",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/53.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/53.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8229",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Weapons",
-      "value": "Paladin Staff"
+      "value": "Paladin Staff l"
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "BloodRed"
+      "value": "Blood Red"
     }
   ],
   "external_url": "https://eyeverse.world/bloodofape",

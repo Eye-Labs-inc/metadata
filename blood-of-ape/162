@@ -1,5 +1,5 @@
 {
-  "name": "#162 Qalra BloodRed",
+  "name": "#162 Qalra Blood Red",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/162.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/162.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8338",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Weapons",
-      "value": "Burning Hand Staff (l)"
+      "value": "Burning Hand Staff l"
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "BloodRed"
+      "value": "Blood Red"
     }
   ],
   "external_url": "https://eyeverse.world/bloodofape",

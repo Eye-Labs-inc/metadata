@@ -1,5 +1,5 @@
 {
-  "name": "#195 Nurphie Red Skin",
+  "name": "#195 Nurphie Redskin",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/195.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/195.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8371",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Weapons",
-      "value": "Dark Demon Sword"
+      "value": "Dark Demon Sword l"
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "Red Skin"
+      "value": "Redskin"
     }
   ],
   "external_url": "https://eyeverse.world/bloodofape",

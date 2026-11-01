@@ -1,5 +1,5 @@
 {
-  "name": "#40 Chokkosh Red Skin",
+  "name": "#40 Chokkosh Redskin",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/40.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/40.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8216",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Weapons",
-      "value": "Red Stone Staff"
+      "value": "Red Stone Staff l"
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "Red Skin"
+      "value": "Redskin"
     }
   ],
   "external_url": "https://eyeverse.world/bloodofape",

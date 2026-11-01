@@ -1,5 +1,5 @@
 {
-  "name": "#245 Ebonbill Red Grell",
+  "name": "#245 Ebonbill Redgrell",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/245.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/245.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8421",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Weapons",
-      "value": "Dark Whistler Staff"
+      "value": "Dark Whistler Staff l"
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "Red Grell"
+      "value": "Redgrell"
     }
   ],
   "external_url": "https://eyeverse.world/bloodofape",

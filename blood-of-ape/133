@@ -1,5 +1,5 @@
 {
-  "name": "#133 Thakosh RedSky",
+  "name": "#133 Thakosh Red Sky",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/4/133.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/133.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8309",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Weapons",
-      "value": "Red Stone Staff"
+      "value": "Red Stone Staff l"
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "RedSky"
+      "value": "Red Sky"
     }
   ],
   "external_url": "https://eyeverse.world/bloodofape",
