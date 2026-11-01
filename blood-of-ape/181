@@ -1,5 +1,5 @@
 {
-  "name": "#181 Nolreh Red Skin",
+  "name": "#181 Nolreh Redskin",
   "image": "https://d1f3nwda2dsfwc.cloudfront.net/blood-of-ape/5/181.png",
   "mml": "https://metadata.eyeverse.world/blood-of-ape-mml/181.mml",
   "description": "Ape Kin forged in battle and bound by honor, the Blood of Ape flows strong. Evolution whispers through the chain, unseen power may yet emerge. This is only the beginning. \nBrace.\n\nParadox #8357",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Paradox Tribe",
-      "value": "Red Skin"
+      "value": "Redskin"
     },
     {
       "trait_type": "Blessing",
